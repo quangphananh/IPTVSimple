@@ -1,0 +1,2135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/18 -- Jan van Straaten" generator-info-url="http://www.servercare.nl">
+  <channel id="VTVcab 1 - Giải trí TV">
+    <display-name lang="vi">VTVcab 1 - Giải trí TV</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 2 - Phim Việt">
+    <display-name lang="vi">VTVcab 2 - Phim Việt</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 3 - Thể thao TV">
+    <display-name lang="vi">VTVcab 3 - Thể thao TV</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 5 - E channel">
+    <display-name lang="vi">VTVcab 5 - E channel</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 6">
+    <display-name lang="vi">VTVcab 6</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 7 - D Dramas">
+    <display-name lang="vi">VTVcab 7 - D Dramas</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 8 - Bibi">
+    <display-name lang="vi">VTVcab 8 - Bibi</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 10 - O2TV">
+    <display-name lang="vi">VTVcab 10 - O2TV</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 12 - Style TV">
+    <display-name lang="vi">VTVcab 12 - Style TV</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 16 - Bóng đá TV">
+    <display-name lang="vi">VTVcab 16 - Bóng đá TV</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="vi">HBO HD</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="vi">Cinemax</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Star Movies">
+    <display-name lang="vi">Star Movies</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="DIVA Universal">
+    <display-name lang="vi">DIVA Universal</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Star World">
+    <display-name lang="vi">Star World</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Australia Network">
+    <display-name lang="vi">Australia Network</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="vi">Disney Channel</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="vi">Cartoon Network</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Animax">
+    <display-name lang="vi">Animax</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="vi">AXN</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Star Sports">
+    <display-name lang="vi">Star Sports</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX sports">
+    <display-name lang="vi">FOX sports</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX sports plus">
+    <display-name lang="vi">FOX sports plus</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="K+NS">
+    <display-name lang="vi">K+NS</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Channel[5]">
+    <display-name lang="vi">Channel[5]</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="NGC">
+    <display-name lang="vi">NGC</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="NGC HD">
+    <display-name lang="vi">NGC HD</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="NGA (National Geographic Adventure)">
+    <display-name lang="vi">NGA (National Geographic Adventure)</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="NGW (National Geographic Wild)">
+    <display-name lang="vi">NGW (National Geographic Wild)</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Kidsco">
+    <display-name lang="vi">Kidsco</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="K+1">
+    <display-name lang="vi">K+1</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="vi">Disney Junior</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="vi">Animal Planet</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Bóng đá TV HD">
+    <display-name lang="vi">Bóng đá TV HD</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="Thể thao TV HD">
+    <display-name lang="vi">Thể thao TV HD</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="K+PM">
+    <display-name lang="vi">K+PM</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 17 - Yeah1">
+    <display-name lang="vi">VTVcab 17 - Yeah1</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab - Kênh 17">
+    <display-name lang="vi">VTVcab - Kênh 17</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="VTV1">
+    <display-name lang="vi">VTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV3">
+    <display-name lang="vi">VTV3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV6">
+    <display-name lang="vi">VTV6</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV5">
+    <display-name lang="vi">VTV5</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV2">
+    <display-name lang="vi">VTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV4">
+    <display-name lang="vi">VTV4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HanoiTV1">
+    <display-name lang="vi">HanoiTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Phim">
+    <display-name lang="vi">HTVC Phim</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Ca nhạc">
+    <display-name lang="vi">HTVC Ca nhạc</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="National Geographic (HD)">
+    <display-name lang="vi">National Geographic (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FTV (SD)">
+    <display-name lang="vi">FTV (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="vi">HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="vi">Max</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="StarMovies">
+    <display-name lang="vi">StarMovies</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel -V">
+    <display-name lang="vi">Channel -V</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="vi">FOX SPORTS</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="StarSport">
+    <display-name lang="vi">StarSport</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC 1">
+    <display-name lang="vi">VTC 1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV7">
+    <display-name lang="vi">HTV7</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV9">
+    <display-name lang="vi">HTV9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Disney">
+    <display-name lang="vi">Disney</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VITV">
+    <display-name lang="vi">VITV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="O2 TV">
+    <display-name lang="vi">O2 TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Phụ nữ">
+    <display-name lang="vi">HTVC Phụ nữ</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="vi">Bloomberg</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel News Asia">
+    <display-name lang="vi">Channel News Asia</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="vi">DW</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="vi">NHK</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CCTV (HD)">
+    <display-name lang="vi">CCTV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Ariang">
+    <display-name lang="vi">Ariang</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="vi">Discovery</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Discovery Travel &amp; Living">
+    <display-name lang="vi">Discovery Travel &amp; Living</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VOVTV">
+    <display-name lang="vi">VOVTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TV5 Asie">
+    <display-name lang="vi">TV5 Asie</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV1">
+    <display-name lang="vi">HTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV2">
+    <display-name lang="vi">HTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV3">
+    <display-name lang="vi">HTV3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC3">
+    <display-name lang="vi">VTC3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaCTV2">
+    <display-name lang="vi">HaCTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HiTV">
+    <display-name lang="vi">HiTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HcaTV">
+    <display-name lang="vi">HcaTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="V-news">
+    <display-name lang="vi">V-news</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="True Sport">
+    <display-name lang="vi">True Sport</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV-DaNang">
+    <display-name lang="vi">VTV-DaNang</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="OPT1">
+    <display-name lang="vi">OPT1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC12">
+    <display-name lang="vi">VTC12</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC11">
+    <display-name lang="vi">VTC11</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC9">
+    <display-name lang="vi">VTC9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC6">
+    <display-name lang="vi">VTC6</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC2">
+    <display-name lang="vi">VTC2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="vi">MTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="vi">RAI</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Discovery (HD)">
+    <display-name lang="vi">Discovery (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Star World (HD)">
+    <display-name lang="vi">Star World (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Star Movies (HD)">
+    <display-name lang="vi">Star Movies (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NGA (HD)">
+    <display-name lang="vi">NGA (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="MTV (HD)">
+    <display-name lang="vi">MTV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AXN (HD)">
+    <display-name lang="vi">AXN (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HBO (HD)">
+    <display-name lang="vi">HBO (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NHK (HD)">
+    <display-name lang="vi">NHK (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Disney (HD)">
+    <display-name lang="vi">Disney (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Cartoon Network (HD)">
+    <display-name lang="vi">Cartoon Network (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Gia đình">
+    <display-name lang="vi">HTVC Gia đình</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Du lịch và Cuộc sống">
+    <display-name lang="vi">HTVC Du lịch và Cuộc sống</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ANTV">
+    <display-name lang="vi">ANTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC7">
+    <display-name lang="vi">VTC7</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC10">
+    <display-name lang="vi">VTC10</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC14">
+    <display-name lang="vi">VTC14</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV4">
+    <display-name lang="vi">HTV4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC-Thể Thao">
+    <display-name lang="vi">HTVC-Thể Thao</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC-Thuần Việt">
+    <display-name lang="vi">HTVC-Thuần Việt</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BacNinhTV">
+    <display-name lang="vi">BacNinhTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV7 HD">
+    <display-name lang="vi">HTV7 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV9 HD">
+    <display-name lang="vi">HTV9 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV2 HD">
+    <display-name lang="vi">HTV2 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QPVN">
+    <display-name lang="vi">QPVN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Mua sắm, tiêu dùng">
+    <display-name lang="vi">HTVC Mua sắm, tiêu dùng</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <programme start="20140608010000 +0700" stop="20140608020000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140608020000 +0700" stop="20140608023000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140608023000 +0700" stop="20140608033000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140608033000 +0700" stop="20140608040000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140608040000 +0700" stop="20140608050000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140608050000 +0700" stop="20140608060000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140608060000 +0700" stop="20140608063000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140608063000 +0700" stop="20140608070000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140608070000 +0700" stop="20140608080000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140608080000 +0700" stop="20140608090000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140608090000 +0700" stop="20140608093000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140608093000 +0700" stop="20140608103000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140608103000 +0700" stop="20140608110000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140608110000 +0700" stop="20140608120000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140608120000 +0700" stop="20140608130000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140608130000 +0700" stop="20140608140000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140608140000 +0700" stop="20140608150000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140608150000 +0700" stop="20140608153000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140608153000 +0700" stop="20140608154500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140608154500 +0700" stop="20140608161500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140608161500 +0700" stop="20140608164500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140608164500 +0700" stop="20140608173000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140608173000 +0700" stop="20140608183000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140608183000 +0700" stop="20140608190000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140608190000 +0700" stop="20140608193000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140608193000 +0700" stop="20140608203000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140608203000 +0700" stop="20140608210000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140608210000 +0700" stop="20140608220000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140608220000 +0700" stop="20140608230000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140608230000 +0700" stop="20140609010000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140609010000 +0700" stop="20140609020000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140609020000 +0700" stop="20140609023000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140609023000 +0700" stop="20140609033000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140609033000 +0700" stop="20140609040000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140609040000 +0700" stop="20140609050000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140609050000 +0700" stop="20140609060000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140609060000 +0700" stop="20140609063000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140609063000 +0700" stop="20140609070000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140609070000 +0700" stop="20140609080000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140609080000 +0700" stop="20140609090000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140609090000 +0700" stop="20140609093000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140609093000 +0700" stop="20140609103000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140609103000 +0700" stop="20140609110000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140609110000 +0700" stop="20140609120000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140609120000 +0700" stop="20140609130000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140609130000 +0700" stop="20140609140000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140609140000 +0700" stop="20140609150000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140609150000 +0700" stop="20140609153000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140609153000 +0700" stop="20140609154500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140609154500 +0700" stop="20140609161500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140609161500 +0700" stop="20140609164500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140609164500 +0700" stop="20140609173000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140609173000 +0700" stop="20140609183000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140609183000 +0700" stop="20140609190000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140609190000 +0700" stop="20140609193000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140609193000 +0700" stop="20140609203000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140609203000 +0700" stop="20140609210000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140609210000 +0700" stop="20140609220000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140609220000 +0700" stop="20140609230000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140609230000 +0700" stop="20140610010000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140610010000 +0700" stop="20140610020000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140610020000 +0700" stop="20140610023000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140610023000 +0700" stop="20140610033000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140610033000 +0700" stop="20140610040000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140610040000 +0700" stop="20140610050000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140610050000 +0700" stop="20140610060000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140610060000 +0700" stop="20140610063000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140610063000 +0700" stop="20140610070000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140610070000 +0700" stop="20140610080000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140610080000 +0700" stop="20140610090000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140610090000 +0700" stop="20140610093000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140610093000 +0700" stop="20140610103000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140610103000 +0700" stop="20140610110000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140610110000 +0700" stop="20140610120000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140610120000 +0700" stop="20140610130000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140610130000 +0700" stop="20140610140000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140610140000 +0700" stop="20140610150000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140610150000 +0700" stop="20140610153000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140610153000 +0700" stop="20140610154500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140610154500 +0700" stop="20140610161500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140610161500 +0700" stop="20140610164500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140610164500 +0700" stop="20140610173000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140610173000 +0700" stop="20140610183000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140610183000 +0700" stop="20140610190000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140610190000 +0700" stop="20140610193000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140610193000 +0700" stop="20140610203000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140610203000 +0700" stop="20140610210000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140610210000 +0700" stop="20140610220000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140610220000 +0700" stop="20140610230000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140610230000 +0700" stop="20140611010000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140611010000 +0700" stop="20140611020000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140611020000 +0700" stop="20140611023000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140611023000 +0700" stop="20140611033000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140611033000 +0700" stop="20140611040000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140611040000 +0700" stop="20140611050000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140611050000 +0700" stop="20140611060000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140611060000 +0700" stop="20140611063000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140611063000 +0700" stop="20140611070000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140611070000 +0700" stop="20140611080000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140611080000 +0700" stop="20140611090000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140611090000 +0700" stop="20140611093000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140611093000 +0700" stop="20140611103000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140611103000 +0700" stop="20140611110000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140611110000 +0700" stop="20140611120000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140611120000 +0700" stop="20140611130000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140611130000 +0700" stop="20140611140000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140611140000 +0700" stop="20140611150000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140611150000 +0700" stop="20140611153000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140611153000 +0700" stop="20140611154500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140611154500 +0700" stop="20140611161500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140611161500 +0700" stop="20140611164500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140611164500 +0700" stop="20140611173000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140611173000 +0700" stop="20140611183000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140611183000 +0700" stop="20140611190000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140611190000 +0700" stop="20140611193000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140611193000 +0700" stop="20140611203000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140611203000 +0700" stop="20140611210000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140611210000 +0700" stop="20140611220000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140611220000 +0700" stop="20140611230000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140611230000 +0700" stop="20140612010000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140612010000 +0700" stop="20140612020000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140612020000 +0700" stop="20140612023000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140612023000 +0700" stop="20140612033000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140612033000 +0700" stop="20140612040000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140612040000 +0700" stop="20140612050000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140612050000 +0700" stop="20140612060000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140612060000 +0700" stop="20140612063000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140612063000 +0700" stop="20140612070000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140612070000 +0700" stop="20140612080000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140612080000 +0700" stop="20140612090000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140612090000 +0700" stop="20140612093000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140612093000 +0700" stop="20140612103000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140612103000 +0700" stop="20140612110000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140612110000 +0700" stop="20140612120000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140612120000 +0700" stop="20140612130000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140612130000 +0700" stop="20140612140000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140612140000 +0700" stop="20140612150000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140612150000 +0700" stop="20140612153000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140612153000 +0700" stop="20140612154500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140612154500 +0700" stop="20140612161500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140612161500 +0700" stop="20140612164500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140612164500 +0700" stop="20140612173000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140612173000 +0700" stop="20140612183000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140612183000 +0700" stop="20140612190000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140612190000 +0700" stop="20140612193000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140612193000 +0700" stop="20140612203000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140612203000 +0700" stop="20140612210000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140612210000 +0700" stop="20140612220000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140612220000 +0700" stop="20140612230000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140612230000 +0700" stop="20140613010000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140613010000 +0700" stop="20140613020000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140613020000 +0700" stop="20140613023000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140613023000 +0700" stop="20140613033000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140613033000 +0700" stop="20140613040000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140613040000 +0700" stop="20140613050000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140613050000 +0700" stop="20140613060000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140613060000 +0700" stop="20140613063000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140613063000 +0700" stop="20140613070000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140613070000 +0700" stop="20140613080000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140613080000 +0700" stop="20140613090000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140613090000 +0700" stop="20140613093000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140613093000 +0700" stop="20140613103000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140613103000 +0700" stop="20140613110000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140613110000 +0700" stop="20140613120000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140613120000 +0700" stop="20140613130000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140613130000 +0700" stop="20140613140000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140613140000 +0700" stop="20140613150000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140613150000 +0700" stop="20140613153000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140613153000 +0700" stop="20140613154500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140613154500 +0700" stop="20140613161500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140613161500 +0700" stop="20140613164500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140613164500 +0700" stop="20140613173000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140613173000 +0700" stop="20140613183000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140613183000 +0700" stop="20140613190000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140613190000 +0700" stop="20140613193000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140613193000 +0700" stop="20140613203000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140613203000 +0700" stop="20140613210000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140613210000 +0700" stop="20140613220000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140613220000 +0700" stop="20140613230000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140613230000 +0700" stop="20140614010000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140614010000 +0700" stop="20140614020000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140614020000 +0700" stop="20140614023000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140614023000 +0700" stop="20140614033000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140614033000 +0700" stop="20140614040000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140614040000 +0700" stop="20140614050000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140614050000 +0700" stop="20140614060000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140614060000 +0700" stop="20140614063000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140614063000 +0700" stop="20140614070000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140614070000 +0700" stop="20140614080000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140614080000 +0700" stop="20140614090000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140614090000 +0700" stop="20140614093000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140614093000 +0700" stop="20140614103000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140614103000 +0700" stop="20140614110000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140614110000 +0700" stop="20140614120000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140614120000 +0700" stop="20140614130000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140614130000 +0700" stop="20140614140000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140614140000 +0700" stop="20140614150000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140614150000 +0700" stop="20140614153000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140614153000 +0700" stop="20140614154500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140614154500 +0700" stop="20140614161500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140614161500 +0700" stop="20140614164500 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140614164500 +0700" stop="20140614173000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140614173000 +0700" stop="20140614183000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140614183000 +0700" stop="20140614190000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140614190000 +0700" stop="20140614193000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140614193000 +0700" stop="20140614203000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140614203000 +0700" stop="20140614210000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140614210000 +0700" stop="20140614220000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140614220000 +0700" stop="20140614230000 +0700" channel="VTVcab 1 - Giải trí TV">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140608010000 +0700" stop="20140608020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140608020000 +0700" stop="20140608023000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140608023000 +0700" stop="20140608033000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140608033000 +0700" stop="20140608040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140608040000 +0700" stop="20140608050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140608050000 +0700" stop="20140608060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140608060000 +0700" stop="20140608063000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140608063000 +0700" stop="20140608070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140608070000 +0700" stop="20140608080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140608080000 +0700" stop="20140608090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140608090000 +0700" stop="20140608093000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140608093000 +0700" stop="20140608103000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140608103000 +0700" stop="20140608110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140608110000 +0700" stop="20140608120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140608120000 +0700" stop="20140608130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140608130000 +0700" stop="20140608140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140608140000 +0700" stop="20140608150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140608150000 +0700" stop="20140608153000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140608153000 +0700" stop="20140608154500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140608154500 +0700" stop="20140608161500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140608161500 +0700" stop="20140608164500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140608164500 +0700" stop="20140608173000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140608173000 +0700" stop="20140608183000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140608183000 +0700" stop="20140608190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140608190000 +0700" stop="20140608193000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140608193000 +0700" stop="20140608203000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140608203000 +0700" stop="20140608210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140608210000 +0700" stop="20140608220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140608220000 +0700" stop="20140608230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140608230000 +0700" stop="20140609010000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140609010000 +0700" stop="20140609020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140609020000 +0700" stop="20140609023000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140609023000 +0700" stop="20140609033000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140609033000 +0700" stop="20140609040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140609040000 +0700" stop="20140609050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140609050000 +0700" stop="20140609060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140609060000 +0700" stop="20140609063000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140609063000 +0700" stop="20140609070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140609070000 +0700" stop="20140609080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140609080000 +0700" stop="20140609090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140609090000 +0700" stop="20140609093000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140609093000 +0700" stop="20140609103000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140609103000 +0700" stop="20140609110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140609110000 +0700" stop="20140609120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140609120000 +0700" stop="20140609130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140609130000 +0700" stop="20140609140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140609140000 +0700" stop="20140609150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140609150000 +0700" stop="20140609153000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140609153000 +0700" stop="20140609154500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140609154500 +0700" stop="20140609161500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140609161500 +0700" stop="20140609164500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140609164500 +0700" stop="20140609173000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140609173000 +0700" stop="20140609183000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140609183000 +0700" stop="20140609190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140609190000 +0700" stop="20140609193000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140609193000 +0700" stop="20140609203000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140609203000 +0700" stop="20140609210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140609210000 +0700" stop="20140609220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140609220000 +0700" stop="20140609230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140609230000 +0700" stop="20140610010000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140610010000 +0700" stop="20140610020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140610020000 +0700" stop="20140610023000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140610023000 +0700" stop="20140610033000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140610033000 +0700" stop="20140610040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140610040000 +0700" stop="20140610050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140610050000 +0700" stop="20140610060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140610060000 +0700" stop="20140610063000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140610063000 +0700" stop="20140610070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140610070000 +0700" stop="20140610080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140610080000 +0700" stop="20140610090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140610090000 +0700" stop="20140610093000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140610093000 +0700" stop="20140610103000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140610103000 +0700" stop="20140610110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140610110000 +0700" stop="20140610120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140610120000 +0700" stop="20140610130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140610130000 +0700" stop="20140610140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140610140000 +0700" stop="20140610150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140610150000 +0700" stop="20140610153000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140610153000 +0700" stop="20140610154500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140610154500 +0700" stop="20140610161500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140610161500 +0700" stop="20140610164500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140610164500 +0700" stop="20140610173000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140610173000 +0700" stop="20140610183000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140610183000 +0700" stop="20140610190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140610190000 +0700" stop="20140610193000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140610193000 +0700" stop="20140610203000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140610203000 +0700" stop="20140610210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140610210000 +0700" stop="20140610220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140610220000 +0700" stop="20140610230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140610230000 +0700" stop="20140611010000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140611010000 +0700" stop="20140611020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140611020000 +0700" stop="20140611023000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140611023000 +0700" stop="20140611033000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140611033000 +0700" stop="20140611040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140611040000 +0700" stop="20140611050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140611050000 +0700" stop="20140611060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140611060000 +0700" stop="20140611063000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140611063000 +0700" stop="20140611070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140611070000 +0700" stop="20140611080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140611080000 +0700" stop="20140611090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140611090000 +0700" stop="20140611093000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140611093000 +0700" stop="20140611103000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140611103000 +0700" stop="20140611110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140611110000 +0700" stop="20140611120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140611120000 +0700" stop="20140611130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140611130000 +0700" stop="20140611140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140611140000 +0700" stop="20140611150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140611150000 +0700" stop="20140611153000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140611153000 +0700" stop="20140611154500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140611154500 +0700" stop="20140611161500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140611161500 +0700" stop="20140611164500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140611164500 +0700" stop="20140611173000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140611173000 +0700" stop="20140611183000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140611183000 +0700" stop="20140611190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140611190000 +0700" stop="20140611193000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140611193000 +0700" stop="20140611203000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140611203000 +0700" stop="20140611210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140611210000 +0700" stop="20140611220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140611220000 +0700" stop="20140611230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140611230000 +0700" stop="20140612010000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140612010000 +0700" stop="20140612020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140612020000 +0700" stop="20140612023000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140612023000 +0700" stop="20140612033000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140612033000 +0700" stop="20140612040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140612040000 +0700" stop="20140612050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140612050000 +0700" stop="20140612060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140612060000 +0700" stop="20140612063000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140612063000 +0700" stop="20140612070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140612070000 +0700" stop="20140612080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140612080000 +0700" stop="20140612090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140612090000 +0700" stop="20140612093000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140612093000 +0700" stop="20140612103000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140612103000 +0700" stop="20140612110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140612110000 +0700" stop="20140612120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140612120000 +0700" stop="20140612130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140612130000 +0700" stop="20140612140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140612140000 +0700" stop="20140612150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140612150000 +0700" stop="20140612153000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140612153000 +0700" stop="20140612154500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140612154500 +0700" stop="20140612161500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140612161500 +0700" stop="20140612164500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140612164500 +0700" stop="20140612173000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140612173000 +0700" stop="20140612183000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140612183000 +0700" stop="20140612190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140612190000 +0700" stop="20140612193000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140612193000 +0700" stop="20140612203000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140612203000 +0700" stop="20140612210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140612210000 +0700" stop="20140612220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140612220000 +0700" stop="20140612230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140612230000 +0700" stop="20140613010000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140613010000 +0700" stop="20140613020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140613020000 +0700" stop="20140613023000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140613023000 +0700" stop="20140613033000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140613033000 +0700" stop="20140613040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140613040000 +0700" stop="20140613050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140613050000 +0700" stop="20140613060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140613060000 +0700" stop="20140613063000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140613063000 +0700" stop="20140613070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140613070000 +0700" stop="20140613080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140613080000 +0700" stop="20140613090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140613090000 +0700" stop="20140613093000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140613093000 +0700" stop="20140613103000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140613103000 +0700" stop="20140613110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140613110000 +0700" stop="20140613120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140613120000 +0700" stop="20140613130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140613130000 +0700" stop="20140613140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140613140000 +0700" stop="20140613150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140613150000 +0700" stop="20140613153000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140613153000 +0700" stop="20140613154500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140613154500 +0700" stop="20140613161500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140613161500 +0700" stop="20140613164500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140613164500 +0700" stop="20140613173000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140613173000 +0700" stop="20140613183000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140613183000 +0700" stop="20140613190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140613190000 +0700" stop="20140613193000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140613193000 +0700" stop="20140613203000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140613203000 +0700" stop="20140613210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140613210000 +0700" stop="20140613220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140613220000 +0700" stop="20140613230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+  <programme start="20140613230000 +0700" stop="20140614010000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cả nhà cùng cười - VN</title>
+    <episode-num system="onscreen">Tập 65</episode-num>
+  </programme>
+  <programme start="20140614010000 +0700" stop="20140614020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng – VN</title>
+    <episode-num system="onscreen">Tập 36</episode-num>
+  </programme>
+  <programme start="20140614020000 +0700" stop="20140614023000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star - VN</title>
+    <episode-num system="onscreen">Tập 9</episode-num>
+  </programme>
+  <programme start="20140614023000 +0700" stop="20140614033000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 1</episode-num>
+  </programme>
+  <programme start="20140614033000 +0700" stop="20140614040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày  - VN</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140614040000 +0700" stop="20140614050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140614050000 +0700" stop="20140614060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Đêm của sao - VN</title>
+    <episode-num system="onscreen">Tập 16</episode-num>
+  </programme>
+  <programme start="20140614060000 +0700" stop="20140614063000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày – VN</title>
+    <episode-num system="onscreen">Tập 136</episode-num>
+  </programme>
+  <programme start="20140614063000 +0700" stop="20140614070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140614070000 +0700" stop="20140614080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 19</episode-num>
+  </programme>
+  <programme start="20140614080000 +0700" stop="20140614090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 20</episode-num>
+  </programme>
+  <programme start="20140614090000 +0700" stop="20140614093000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hậu trường Showbiz – VN</title>
+    <episode-num system="onscreen">Tập 72</episode-num>
+  </programme>
+  <programme start="20140614093000 +0700" stop="20140614103000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Thử tài thách trí – VN</title>
+    <episode-num system="onscreen">Tập 89</episode-num>
+  </programme>
+  <programme start="20140614103000 +0700" stop="20140614110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140614110000 +0700" stop="20140614120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười đủ kiểu - VN</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140614120000 +0700" stop="20140614130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 27</episode-num>
+  </programme>
+  <programme start="20140614130000 +0700" stop="20140614140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Ông hoàng thời trang - HQ</title>
+    <episode-num system="onscreen">Tập 28</episode-num>
+  </programme>
+  <programme start="20140614140000 +0700" stop="20140614150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Trò chuyện với người nổi tiếng</title>
+    <episode-num system="onscreen">Tập 37</episode-num>
+  </programme>
+  <programme start="20140614150000 +0700" stop="20140614153000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Làm đẹp - VN</title>
+    <episode-num system="onscreen">Tập 64</episode-num>
+  </programme>
+  <programme start="20140614153000 +0700" stop="20140614154500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sắc màu không gian - VN</title>
+    <episode-num system="onscreen">Tập 42</episode-num>
+  </programme>
+  <programme start="20140614154500 +0700" stop="20140614161500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 31</episode-num>
+  </programme>
+  <programme start="20140614161500 +0700" stop="20140614164500 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Cười vui mỗi ngày - VN</title>
+    <episode-num system="onscreen">Tập 60</episode-num>
+  </programme>
+  <programme start="20140614164500 +0700" stop="20140614173000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 21</episode-num>
+  </programme>
+  <programme start="20140614173000 +0700" stop="20140614183000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình chồng tôi - HQ</title>
+    <episode-num system="onscreen">Tập 22</episode-num>
+  </programme>
+  <programme start="20140614183000 +0700" stop="20140614190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Sao và sự kiện – VN</title>
+    <episode-num system="onscreen">Tập 108</episode-num>
+  </programme>
+  <programme start="20140614190000 +0700" stop="20140614193000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Gia đình là số 1 – P3 - HQ</title>
+    <episode-num system="onscreen">Tập 32</episode-num>
+  </programme>
+  <programme start="20140614193000 +0700" stop="20140614203000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nụ hôn bị đánh mất - Philippin</title>
+    <episode-num system="onscreen">Tập 23</episode-num>
+  </programme>
+  <programme start="20140614203000 +0700" stop="20140614210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Giải mã K Star – VN</title>
+    <episode-num system="onscreen">Tập 10</episode-num>
+  </programme>
+  <programme start="20140614210000 +0700" stop="20140614220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Người bí ẩn – Vn</title>
+    <episode-num system="onscreen">Tập 11</episode-num>
+  </programme>
+  <programme start="20140614220000 +0700" stop="20140614230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lớp học ngôi sao - VN</title>
+    <episode-num system="onscreen">Tập 2</episode-num>
+  </programme>
+</tv>
