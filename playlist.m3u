@@ -9,17 +9,21 @@ http://117.103.206.24:1935/live/_definst_/StarMovieHD/StarMovieHD_live.smil/play
 http://117.103.206.24:1935/live/_definst_/AXNHD/AXNHD_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Star World (HD)" tvg-name="StarWorldHD" tvg-logo="StarWorldHD.jpg" group-title="HD",StarWorldHD
 http://frdlzsmb.cdnviet.com/psczntp/_definst/starworld.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Bóng đá TV HD" tvg-name="BongDaHD" tvg-logo="BongDaHD.jpg" group-title="HD",BongDaHD
+#EXTINF:-1 tvg-id="Bóng đá TV HD" tvg-name="BongDaHD" tvg-logo="BongDaHD.jpg" group-title="Sport",BongDaHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTVCab16.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Thể thao TV HD" tvg-name="TheThaoHD" tvg-logo="TheThaoHD.jpg" group-title="HD",TheThaoHD
+#EXTINF:-1 tvg-id="Thể thao TV HD" tvg-name="TheThaoHD" tvg-logo="TheThaoHD.jpg" group-title="Sport",TheThaoHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/TheThaoHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="SCTV_TheThaoHD" tvg-logo="SCTV_TheThaoHD.jpg" group-title="HD",SCTV_TheThaoHD
+#EXTINF:-1 tvg-id="8" tvg-name="SCTV_TheThaoHD" tvg-logo="SCTV_TheThaoHD.jpg" group-title="Sport",SCTV_TheThaoHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/SCTVTheThao.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX sports plus" tvg-name="FoxHD" tvg-logo="FoxHD.jpg" group-title="HD",FoxHD
+#EXTINF:-1 tvg-id="StarSport" tvg-name="StarSport" tvg-logo="StarSport.jpg" group-title="Sport",StarSport
+http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/StarSports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX sports plus" tvg-name="FoxHD" tvg-logo="FoxHD.jpg" group-title="Sport",FoxHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/FOXSportHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV3 HD" tvg-name="VTV3HD" tvg-logo="VTV3HD.jpg" group-title="HD",VTV3HD
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="VTV1.jpg" group-title="SD",VTV1
+rtmp://m22.megafun.vn/hctv/vstv002
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3HD" tvg-logo="VTV3HD.jpg" group-title="HD",VTV3HD
 http://117.103.206.26:1935/live/_definst_/VTV3HD/VTV3HD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV6 HD" tvg-name="VTV6HD" tvg-logo="VTV6HD" group-title="HD",VTV6HD
+#EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6HD" tvg-logo="VTV6HD" group-title="HD",VTV6HD
 http://117.103.206.26:1935/live/_definst_/VTV6HD/VTV6HD_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV2 HD" tvg-name="HTV2HD" tvg-logo="HTV2HD.jpg" group-title="HD",HTV2HD
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv2.720p.stream/playlist.m3u8
@@ -39,11 +43,11 @@ http://frdlzsmb.cdnviet.com/psczntp/_definst_/fbnc.720p.stream/playlist.m3u8
 http://frdlzsmb.cdnviet.com/psczntp/_definst/natgeo.720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery (HD)" tvg-name="DiscoveryHD" tvg-logo="DiscoveryHD.jpg" group-title="HD",DiscoveryHD
 http://frdlzsmb.cdnviet.com/psczntp/_definst/discovery.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVcab 8 - Bibi" tvg-name="BiBi" tvg-logo="BiBi.jpg" group-title="HD",BiBi
+#EXTINF:-1 tvg-id="VTVcab8" tvg-name="BiBi" tvg-logo="BiBi.jpg" group-title="HD",BiBi
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/Bibi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DisneyChannel" tvg-logo="DisneyChannel.jpg" group-title="HD",DisneyChannel
 http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kidsco" tvg-name="KidsTV" tvg-logo="KidsTV.jpg" group-title="HD",KidsTV
+#EXTINF:-1 tvg-id="KidsTV" tvg-name="KidsTV" tvg-logo="KidsTV.jpg" group-title="HD",KidsTV
 http://123.30.170.215:8077/play/vtc11.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="SCTV_HaiHD" tvg-logo="SCTV_HaiHD.jpg" group-title="HD",SCTV_HaiHD
 http://live.accessasia.tv:1935/vnptg_channels/mp4:sctvhaihd.480p/playlist.m3u
@@ -55,3 +59,16 @@ http://117.103.206.24:1935/live/_definst_/HBOHD/HBOHD_live.smil/playlist.m3u8
 rtmp://206.190.150.132:1935/liveStream/hai_1
 #EXTINF:-1 tvg-id="SCTV1" tvg-name="YanTV" tvg-logo="YanTV.jpg" group-title="HD",YanTV
 rtmp://sctv2.yan.vn/live/yantv
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="TrueSport" tvg-logo="TrueSport.jpg" group-title="Sport",TrueSport
+http://hlscache.fptplay.net.vn/sopchannel/truevisions.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FPTSport1" tvg-name="FPTSport1" tvg-logo="FPTSport.jpg" group-title="Sport",FPTSport1
+http://hlscache.fptplay.net.vn/event/sport1/playlist.m3u8
+#EXTINF:-1 tvg-id="FPTSport2" tvg-name="FPTSport2" tvg-logo="FPTSport.jpg" group-title="Sport",FPTSport2
+http://hlscache.fptplay.net.vn/event/sport2/playlist.m3u8
+#EXTINF:-1 tvg-id="FPTSport3" tvg-name="FPTSport3" tvg-logo="FPTSport.jpg" group-title="Sport",FPTSport3
+http://hlscache.fptplay.net.vn/event/sport3/playlist.m3u8
+#EXTINF:-1 tvg-id="FPTSport4" tvg-name="FPTSport4" tvg-logo="FPTSport.jpg" group-title="Sport",FPTSport4
+http://hlscache.fptplay.net.vn/event/sport4/playlist.m3u8
+#EXTINF:-1 tvg-id="FPTSport5" tvg-name="FPTSport5" tvg-logo="FPTSport.jpg" group-title="Sport",FPTSport5
+http://hlscache.fptplay.net.vn/event/sport4/playlist.m3u8
+

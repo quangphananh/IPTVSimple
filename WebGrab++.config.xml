@@ -123,8 +123,12 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
   <channel update="i" site="vtvcab.vn" site_id="121" xmltv_id="Thể thao TV HD">Thể thao TV HD</channel>
   <channel update="i" site="vtvcab.vn" site_id="106" xmltv_id="FOX sports plus">FOX sports plus</channel>
   <channel update="i" site="vtvcab.vn" site_id="103" xmltv_id="AXN">AXN</channel>
-  <channel update="i" site="mytv.com.vn" site_id="183" xmltv_id="VTV3">VTV3 HD</channel>
-  <channel update="i" site="mytv.com.vn" site_id="184" xmltv_id="VTV6">VTV6 HD</channel>
+  <channel update="i" site="vtv.vn" site_id="1" xmltv_id="VTV1">VTV1</channel>
+  <channel update="i" site="vtv.vn" site_id="2" xmltv_id="VTV2">VTV2</channel>
+  <channel update="i" site="vtv.vn" site_id="3" xmltv_id="VTV3">VTV3</channel>
+  <channel update="i" site="vtv.vn" site_id="4" xmltv_id="VTV4">VTV4</channel>
+  <channel update="i" site="vtv.vn" site_id="6" xmltv_id="VTV6">VTV6</channel>
+  <channel update="i" site="vtv.vn" site_id="9" xmltv_id="VTV9">VTV9</channel>
   <channel update="i" site="mytv.com.vn" site_id="165" xmltv_id="HTV2 HD">HTV2 HD</channel>
   <channel update="i" site="mytv.com.vn" site_id="163" xmltv_id="HTV7 HD">HTV7 HD</channel>
   <channel update="i" site="mytv.com.vn" site_id="164" xmltv_id="HTV9 HD">HTV9 HD</channel>
@@ -133,11 +137,12 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
   <channel update="i" site="mytv.com.vn" site_id="5" xmltv_id="HTVC Phim">HTVC Phim</channel>
   <channel update="i" site="tv.vietbao.vn" site_id="htvc-fbnc" xmltv_id="HTVC FBNC">HTVC FBNC</channel>
   <channel update="i" site="mytv.com.vn" site_id="117" xmltv_id="Discovery (HD)">Discovery (HD)</channel>
-  <channel update="i" site="vtvcab.vn" site_id="85" xmltv_id="VTVcab 8 - Bibi">VTVcab 8 - Bibi</channel>
+  <channel update="i" site="vtv.vn" site_id="28" xmltv_id="VTVcab8">VTVcab8</channel>
   <channel update="i" site="vtvcab.vn" site_id="114" xmltv_id="Kidsco">Kidsco</channel>
   <channel update="i" site="vtvcab.vn" site_id="100" xmltv_id="Disney Channel">Disney Channel</channel>
   <channel update="i" site="mytv.com.vn" site_id="58" xmltv_id="VTC3">VTC3</channel>
   <channel update="i" site="mytv.com.vn" site_id="107" xmltv_id="VTC2">VTC2</channel>
   <channel update="i" site="tv.vietbao.vn" site_id="sctv1" xmltv_id="SCTV1">SCTV1</channel>
+  <channel update="i" site="mytv.com.vn" site_id="15" xmltv_id="StarSport">StarSport</channel>
 
 </settings>
