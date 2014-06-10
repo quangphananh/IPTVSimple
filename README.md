@@ -2,17 +2,18 @@ IPTVSimple
 ==========
 Tested with Openelec on RasPi
 
-2. Launch XBMC Settings > Add-ons > Disable Add-ons > PVR Clients
+1. Launch XBMC Settings > Add-ons > Disable Add-ons > PVR Clients
 
-3. Enable PVR IPTV Simple Client
+2. Enable PVR IPTV Simple Client
 
-4. Go to Configure, add playlist.m3u and location of channel icons
+3. Go to Configure, add location for playlist, epg and channel icons
   - Playlist URL: https://raw.githubusercontent.com/quangphananh/IPTVSimple/master/playlist.m3u
+  - EPG URL: https://raw.githubusercontent.com/quangphananh/IPTVSimple/master/guide.xml
   - Icon URL: https://raw.githubusercontent.com/quangphananh/IPTVSimple/master/
 
-5. Move out to XBMC Settings > Live TV and enable it
+4. Move out to XBMC Settings > Live TV and enable it
 
-6. Enjoy
+5. Enjoy
 
 Note: 
 
