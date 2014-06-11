@@ -94,7 +94,7 @@ http://203.162.235.26/lives/origin01/vtc12sd.isml/vtc12sd.m3u8
 #EXTINF:-1 tvg-id="VTC14" tvg-name="VTC14" tvg-logo="VTC14.jpg" group-title="SD",VTC14
 rtmp://117.103.224.31/live/livestream
 
-#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="VTC4.jpg" group-title="SD",VTC4
+#EXTINF:-1 tvg-id="VCTV4" tvg-name="VCTV4" tvg-logo="VCTV4.jpg" group-title="SD",VCTV4
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 
 
