@@ -122,7 +122,7 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
   <channel update="i" site="vtvcab.vn" site_id="120" xmltv_id="Bóng đá TV HD">Bóng đá TV HD</channel>
   <channel update="i" site="vtvcab.vn" site_id="121" xmltv_id="Thể thao TV HD">Thể thao TV HD</channel>
   <channel update="i" site="vtvcab.vn" site_id="106" xmltv_id="FOX sports plus">FOX sports plus</channel>
-  <channel update="i" site="vtvcab.vn" site_id="103" xmltv_id="AXN">AXN</channel>
+  <channel update="i" site="mytv.com.vn" site_id="21" xmltv_id="AXN">AXN</channel>
   <channel update="i" site="vtv.vn" site_id="1" xmltv_id="VTV1">VTV1</channel>
   <channel update="i" site="vtv.vn" site_id="2" xmltv_id="VTV2">VTV2</channel>
   <channel update="i" site="vtv.vn" site_id="3" xmltv_id="VTV3">VTV3</channel>
