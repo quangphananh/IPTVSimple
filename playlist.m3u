@@ -23,7 +23,7 @@ http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/StarSports.smil/playlist.m3u8
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/FOXSportHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="VTV1.jpg" group-title="SD",VTV1
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/vtv1.360p.stream/playlist.m3u8
+http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="VTV2.jpg" group-title="SD",VTV2
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/vtv2.360p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3HD" tvg-logo="VTV3HD.jpg" group-title="HD",VTV3HD
