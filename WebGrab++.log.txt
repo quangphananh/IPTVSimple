@@ -1,6 +1,6 @@
 ﻿WebGrab+Plus/w MDB & REX Postprocess -- version 1.54.2/0.00 -- Jan van Straaten
 -------------------------------------------------------------------------------
-job started at 6/14/2014 3:30:02 AM
+job started at 6/15/2014 3:30:03 AM
 
 
 reading config file: /home/xbian/webgrab/WebGrab++.config.xml
@@ -18,7 +18,7 @@ timezone=UTC+07:00 mapped with timezone_id "Asia/Jakarta"
 running on Unix 3.12.7.0
 
 xmltv input file - /home/xbian/webgrab/EPG/guide.xml - found
-2626 superfluous shows removed
+0 superfluous shows removed
 update requested for - 28 - out of - 28 - channels and for 4 day(s)
 pdate mode smart - for all channels
 
@@ -137,7 +137,7 @@ unable to update channel
 0 shows in 28 channels
 0 updated shows
 0 new shows added
-job finished at 6/14/2014 4:52:28 AM done in 4945 seconds
+job finished at 6/15/2014 4:52:23 AM done in 4939 seconds
 
 Starting MDB Postprocess .. Version: 1.4
 
@@ -152,7 +152,7 @@ MDB Postprocessor result :
 
 Mdb data found for 0 out of 0 Movies-candidates
 Mdb data found for 0 out of 0 Series-candidates
-In 00:00:00.1446180 seconds
+In 00:00:00.1430600 seconds
 
 
 Finished Postprocess MDB
