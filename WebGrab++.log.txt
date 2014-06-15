@@ -1,6 +1,6 @@
 ﻿WebGrab+Plus/w MDB & REX Postprocess -- version 1.54.2/0.00 -- Jan van Straaten
 -------------------------------------------------------------------------------
-job started at 6/15/2014 3:30:03 AM
+job started at 6/16/2014 3:30:02 AM
 
 
 reading config file: /home/xbian/webgrab/WebGrab++.config.xml
@@ -137,7 +137,7 @@ unable to update channel
 0 shows in 28 channels
 0 updated shows
 0 new shows added
-job finished at 6/15/2014 4:52:23 AM done in 4939 seconds
+job finished at 6/16/2014 4:52:22 AM done in 4940 seconds
 
 Starting MDB Postprocess .. Version: 1.4
 
@@ -152,7 +152,7 @@ MDB Postprocessor result :
 
 Mdb data found for 0 out of 0 Movies-candidates
 Mdb data found for 0 out of 0 Series-candidates
-In 00:00:00.1430600 seconds
+In 00:00:00.1432690 seconds
 
 
 Finished Postprocess MDB
