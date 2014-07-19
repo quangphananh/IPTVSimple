@@ -1,6 +1,6 @@
 ﻿WebGrab+Plus/w MDB & REX Postprocess -- version 1.54.2/0.00 -- Jan van Straaten
 -------------------------------------------------------------------------------
-job started at 7/19/2014 3:30:08 AM
+job started at 7/20/2014 3:30:08 AM
 
 
 reading config file: /home/xbian/webgrab/WebGrab++.config.xml
@@ -18,7 +18,7 @@ timezone=UTC+07:00 mapped with timezone_id "Asia/Jakarta"
 running on Unix 3.12.7.0
 
 xmltv input file - /home/xbian/webgrab/EPG/guide.xml - found
-2001 superfluous shows removed
+1945 superfluous shows removed
 update requested for - 28 - out of - 28 - channels and for 4 day(s)
 pdate mode smart - for all channels
 
@@ -27,10 +27,10 @@ channel HBO HD site -- VTVCAB.VN -- update mode smart
    Summary for update of HBO HD
      missing shows added       0
      changed shows updated     0
-     new shows added           40
-     unchanged shows inspected 15
+     new shows added           42
+     unchanged shows inspected 13
      total after update        55
-     elapstime / updated show  0.17 seconds
+     elapstime / updated show  0.21 seconds
 
 
 channel Star Movies (HD) site -- MYTV.COM.VN -- update mode smart
@@ -41,7 +41,7 @@ channel Star Movies (HD) site -- MYTV.COM.VN -- update mode smart
      new shows added           39
      unchanged shows inspected 12
      total after update        51
-     elapstime / updated show  0.34 seconds
+     elapstime / updated show  0.12 seconds
 
 
 channel Star World (HD) site -- MYTV.COM.VN -- update mode smart
@@ -49,10 +49,10 @@ channel Star World (HD) site -- MYTV.COM.VN -- update mode smart
    Summary for update of Star World (HD)
      missing shows added       0
      changed shows updated     0
-     new shows added           110
-     unchanged shows inspected 37
-     total after update        147
-     elapstime / updated show  0.16 seconds
+     new shows added           107
+     unchanged shows inspected 39
+     total after update        146
+     elapstime / updated show  0.11 seconds
 
 
 channel Bóng đá TV HD site -- VTVCAB.VN -- update mode smart
@@ -60,10 +60,10 @@ channel Bóng đá TV HD site -- VTVCAB.VN -- update mode smart
    Summary for update of Bóng đá TV HD
      missing shows added       0
      changed shows updated     0
-     new shows added           42
+     new shows added           20
      unchanged shows inspected 0
-     total after update        42
-     elapstime / updated show  0.18 seconds
+     total after update        20
+     elapstime / updated show  0.11 seconds
 
 
 channel Thể thao TV HD site -- VTVCAB.VN -- update mode smart
@@ -71,10 +71,10 @@ channel Thể thao TV HD site -- VTVCAB.VN -- update mode smart
    Summary for update of Thể thao TV HD
      missing shows added       0
      changed shows updated     0
-     new shows added           80
+     new shows added           41
      unchanged shows inspected 0
-     total after update        80
-     elapstime / updated show  0.20 seconds
+     total after update        41
+     elapstime / updated show  0.12 seconds
 
 
 channel FOX sports plus site -- VTVCAB.VN -- update mode smart
@@ -82,10 +82,10 @@ channel FOX sports plus site -- VTVCAB.VN -- update mode smart
    Summary for update of FOX sports plus
      missing shows added       0
      changed shows updated     0
-     new shows added           59
-     unchanged shows inspected 17
-     total after update        76
-     elapstime / updated show  0.24 seconds
+     new shows added           56
+     unchanged shows inspected 18
+     total after update        74
+     elapstime / updated show  0.14 seconds
 
 
 channel AXN site -- VTVCAB.VN -- update mode smart
@@ -93,10 +93,10 @@ channel AXN site -- VTVCAB.VN -- update mode smart
    Summary for update of AXN
      missing shows added       0
      changed shows updated     0
-     new shows added           83
+     new shows added           82
      unchanged shows inspected 24
-     total after update        107
-     elapstime / updated show  0.29 seconds
+     total after update        106
+     elapstime / updated show  0.18 seconds
 
 
 channel VTV1 site -- VTV.VN -- update mode smart
@@ -104,10 +104,10 @@ channel VTV1 site -- VTV.VN -- update mode smart
    Summary for update of VTV1
      missing shows added       0
      changed shows updated     0
-     new shows added           177
-     unchanged shows inspected 68
-     total after update        245
-     elapstime / updated show  0.35 seconds
+     new shows added           187
+     unchanged shows inspected 65
+     total after update        252
+     elapstime / updated show  0.20 seconds
 
 
 channel VTV2 site -- VTV.VN -- update mode smart
@@ -115,10 +115,10 @@ channel VTV2 site -- VTV.VN -- update mode smart
    Summary for update of VTV2
      missing shows added       0
      changed shows updated     0
-     new shows added           172
+     new shows added           170
      unchanged shows inspected 60
-     total after update        232
-     elapstime / updated show  0.42 seconds
+     total after update        230
+     elapstime / updated show  0.25 seconds
 
 
 channel VTV3 site -- VTV.VN -- update mode smart
@@ -135,10 +135,10 @@ channel VTV4 site -- VTV.VN -- update mode smart
    Summary for update of VTV4
      missing shows added       0
      changed shows updated     0
-     new shows added           155
-     unchanged shows inspected 57
-     total after update        212
-     elapstime / updated show  0.50 seconds
+     new shows added           161
+     unchanged shows inspected 59
+     total after update        220
+     elapstime / updated show  0.30 seconds
 
 
 channel VTV6 site -- VTV.VN -- update mode smart
@@ -146,94 +146,21 @@ channel VTV6 site -- VTV.VN -- update mode smart
    Summary for update of VTV6
      missing shows added       0
      changed shows updated     0
-     new shows added           104
+     new shows added           109
      unchanged shows inspected 36
-     total after update        140
-     elapstime / updated show  0.60 seconds
+     total after update        145
+     elapstime / updated show  0.35 seconds
 
 
 channel VTV9 site -- VTV.VN -- update mode smart
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 12:25:00 AM stop = 7/21/2014 1:10:00 AM title = Phim truyện
-      Replaces ----- start = 7/21/2014 12:25:00 AM stop = 7/21/2014 1:15:00 AM title = Phim truyện Việt Nam
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 1:10:00 AM stop = 7/21/2014 2:00:00 AM title = Nhìn ra thế giới
-      Replaces ----- start = 7/21/2014 12:25:00 AM stop = 7/21/2014 1:15:00 AM title = Phim truyện Việt Nam
-      Replaces ----- start = 7/21/2014 1:15:00 AM stop = 7/21/2014 2:05:00 AM title = Nhìn ra thế giới.
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 2:00:00 AM stop = 7/21/2014 2:30:00 AM title = Dân ca Nam Bộ
-      Replaces ----- start = 7/21/2014 1:15:00 AM stop = 7/21/2014 2:05:00 AM title = Nhìn ra thế giới.
-      Replaces ----- start = 7/21/2014 2:05:00 AM stop = 7/21/2014 2:35:00 AM title = Giai điệu phương Nam
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 2:30:00 AM stop = 7/21/2014 3:05:00 AM title = Phim tài liệu
-      Replaces ----- start = 7/21/2014 2:05:00 AM stop = 7/21/2014 2:35:00 AM title = Giai điệu phương Nam
-      Replaces ----- start = 7/21/2014 2:35:00 AM stop = 7/21/2014 3:05:00 AM title = Phim tài liệu
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 5:00:00 AM stop = 7/21/2014 5:45:00 AM title = Phim truyện
-      Replaces ----- start = 7/21/2014 5:00:00 AM stop = 7/21/2014 5:55:00 AM title = Phim truyện
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 5:45:00 AM stop = 7/21/2014 5:55:00 AM title = Ký sự
-      Replaces ----- start = 7/21/2014 5:00:00 AM stop = 7/21/2014 5:55:00 AM title = Phim truyện
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 7:00:00 AM stop = 7/21/2014 7:10:00 AM title = 7 ngày vui sống
-      Replaces ----- start = 7/21/2014 7:00:00 AM stop = 7/21/2014 7:10:00 AM title = Chuyện từ những con đường
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 7:10:00 AM stop = 7/21/2014 7:40:00 AM title = Bài ca không quên
-      Replaces ----- start = 7/21/2014 7:10:00 AM stop = 7/21/2014 7:40:00 AM title = Ca nhạc
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 7:40:00 AM stop = 7/21/2014 7:50:00 AM title = Chuyện từ những con đường
-      Replaces ----- start = 7/21/2014 7:40:00 AM stop = 7/21/2014 7:50:00 AM title = Tôi đẹp
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 7:50:00 AM stop = 7/21/2014 8:05:00 AM title = Tôi đẹp
-      Replaces ----- start = 7/21/2014 7:50:00 AM stop = 7/21/2014 8:15:00 AM title = Phim tài liệu
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 8:05:00 AM stop = 7/21/2014 8:30:00 AM title = Phim tài liệu
-      Replaces ----- start = 7/21/2014 7:50:00 AM stop = 7/21/2014 8:15:00 AM title = Phim tài liệu
-      Replaces ----- start = 7/21/2014 8:15:00 AM stop = 7/21/2014 8:45:00 AM title = Ca nhạc
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 8:30:00 AM stop = 7/21/2014 9:00:00 AM title = Ca nhạc
-      Replaces ----- start = 7/21/2014 8:15:00 AM stop = 7/21/2014 8:45:00 AM title = Ca nhạc
-      Replaces ----- start = 7/21/2014 8:45:00 AM stop = 7/21/2014 9:00:00 AM title = Ký sự
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 9:00:00 AM stop = 7/21/2014 9:30:00 AM title = Vấn đề xã hội
-      Replaces ----- start = 7/21/2014 9:00:00 AM stop = 7/21/2014 9:30:00 AM title = Kinh tế
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 9:30:00 AM stop = 7/21/2014 10:00:00 AM title = Thời trang đam mê
-      Replaces ----- start = 7/21/2014 9:30:00 AM stop = 7/21/2014 10:00:00 AM title = 7 ngày thể thao
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 11:15:00 AM stop = 7/21/2014 11:30:00 AM title = Phóng sự điều tra
-      Replaces ----- start = 7/21/2014 11:15:00 AM stop = 7/21/2014 11:30:00 AM title = Phóng sự
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 2:30:00 PM stop = 7/21/2014 3:00:00 PM title = Những cung bậc cảm xúc
-      Replaces ----- start = 7/21/2014 2:30:00 PM stop = 7/21/2014 3:00:00 PM title = Dân ca nhạc cổ
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 3:10:00 PM stop = 7/21/2014 3:30:00 PM title = Không gian tôi yêu
-      Replaces ----- start = 7/21/2014 3:10:00 PM stop = 7/21/2014 3:30:00 PM title = Tiếp sức những ước mơ
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 4:10:00 PM stop = 7/21/2014 5:00:00 PM title = Phim truyện
-      Replaces ----- start = 7/21/2014 4:10:00 PM stop = 7/21/2014 4:55:00 PM title = Phim truyện
-      Replaces ----- start = 7/21/2014 4:55:00 PM stop = 7/21/2014 5:05:00 PM title = Chuyện gia đình vàng
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 5:00:00 PM stop = 7/21/2014 5:05:00 PM title = Chuyện gia đình vàng
-      Replaces ----- start = 7/21/2014 4:55:00 PM stop = 7/21/2014 5:05:00 PM title = Chuyện gia đình vàng
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 7:45:00 PM stop = 7/21/2014 8:00:00 PM title = Dọc đường đen trắng
-      Replaces ----- start = 7/21/2014 7:45:00 PM stop = 7/21/2014 7:55:00 PM title = Dọc đường đen trắng
-      Replaces ----- start = 7/21/2014 7:55:00 PM stop = 7/21/2014 8:00:00 PM title = Clip chương trình
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/21/2014 11:45:00 PM stop = 7/22/2014 12:00:00 AM title = Tình khúc vượt thời gian
-      Replaces ----- start = 7/21/2014 11:45:00 PM stop = 7/22/2014 12:05:00 AM title = Tình khúc vượt thời gian
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/22/2014 12:00:00 AM stop = 7/22/2014 12:15:00 AM title = Tình khúc vượt thời gian
-      Replaces ----- start = 7/21/2014 11:45:00 PM stop = 7/22/2014 12:05:00 AM title = Tình khúc vượt thời gian
 
    Summary for update of VTV9
      missing shows added       0
-     changed shows updated     22
-     new shows added           173
-     unchanged shows inspected 37
+     changed shows updated     0
+     new shows added           174
+     unchanged shows inspected 58
      total after update        232
-     elapstime / updated show  0.68 seconds
+     elapstime / updated show  0.39 seconds
 
 
 channel HTV2 HD site -- MYTV.COM.VN -- update mode smart
@@ -251,10 +178,10 @@ channel HTV7 HD site -- MYTV.COM.VN -- update mode smart
    Summary for update of HTV7 HD
      missing shows added       0
      changed shows updated     0
-     new shows added           152
-     unchanged shows inspected 0
+     new shows added           113
+     unchanged shows inspected 39
      total after update        152
-     elapstime / updated show  0.71 seconds
+     elapstime / updated show  0.43 seconds
 
 
 channel HTV9 HD site -- MYTV.COM.VN -- update mode smart
@@ -262,10 +189,10 @@ channel HTV9 HD site -- MYTV.COM.VN -- update mode smart
    Summary for update of HTV9 HD
      missing shows added       0
      changed shows updated     0
-     new shows added           172
-     unchanged shows inspected 0
-     total after update        172
-     elapstime / updated show  0.79 seconds
+     new shows added           133
+     unchanged shows inspected 42
+     total after update        175
+     elapstime / updated show  0.46 seconds
 
 
 channel HTVC-Thuần Việt site -- MYTV.COM.VN -- update mode smart
@@ -323,256 +250,16 @@ scrub strings:
      elementend   (ee): 
      blockend     (be): <div class="chanel-detail">
 
-Separated html block(s), number of blocks = 1
-----------begin--block----------
-<div class="tv-detail clearfix"><div class="time-tv">00:00</div><div class="t-detail" id="program-4568271414057165258835"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/"><span>Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</span></a> (29')<p></p></div>
-    <div class="news-pop" id="4568271414057165258835" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#comment">Đánh giá</a></div>
-                <p>00:00-00:29</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/C%E1%BA%ADn-c%E1%BA%A3nh%3A-TS-Ph%E1%BA%A1m-%C4%90%C3%ACnh-Nam-%11-G%C4%90-Cty-NDP-Analytics-%28M%E1%BB%B9%29/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
+No Block with these separators
 
-    </div><div class="tv-detail clearfix"><div class="time-tv">00:30</div><div class="t-detail" id="program-4568271714057165258837"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/"><span>Văn hóa</span></a> (9')<p></p></div>
-    <div class="news-pop" id="4568271714057165258837" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Văn hóa</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#comment">Đánh giá</a></div>
-                <p>00:30-00:39</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/V%C4%83n-h%C3%B3a/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
 
-    </div>    
-    </div>
-    <div class="chanel-detail">
-----------end----block----------
-
-Separated Element(s) (es) applied
-----------begin--element----------
- clearfix"><div class="time-tv">00:00</div><div class="t-detail" id="program-4568271414057165258835"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/"><span>Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</span></a> (29')<p></p></div>
-    <div class="news-pop" id="4568271414057165258835" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#comment">Đánh giá</a></div>
-                <p>00:00-00:29</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/C%E1%BA%ADn-c%E1%BA%A3nh%3A-TS-Ph%E1%BA%A1m-%C4%90%C3%ACnh-Nam-%11-G%C4%90-Cty-NDP-Analytics-%28M%E1%BB%B9%29/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
-
-    </div><div | clearfix"><div class="time-tv">00:30</div><div class="t-detail" id="program-4568271714057165258837"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/"><span>Văn hóa</span></a> (9')<p></p></div>
-    <div class="news-pop" id="4568271714057165258837" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Văn hóa</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#comment">Đánh giá</a></div>
-                <p>00:30-00:39</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/V%C4%83n-h%C3%B3a/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
-
-    </div>    
-    </div>
-    <div class="chanel-detail">
-----------end----element----------
-
-Separated Element(s) (es) and (ee) applied of block 0
-----------begin--element----------
- clearfix"><div class="time-tv">00:00</div><div class="t-detail" id="program-4568271414057165258835"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/"><span>Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</span></a> (29')<p></p></div>
-    <div class="news-pop" id="4568271414057165258835" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#comment">Đánh giá</a></div>
-                <p>00:00-00:29</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/C%E1%BA%ADn-c%E1%BA%A3nh%3A-TS-Ph%E1%BA%A1m-%C4%90%C3%ACnh-Nam-%11-G%C4%90-Cty-NDP-Analytics-%28M%E1%BB%B9%29/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
-
-    </div><div 
-----------end----element----------
-----------begin--element----------
- clearfix"><div class="time-tv">00:30</div><div class="t-detail" id="program-4568271714057165258837"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/"><span>Văn hóa</span></a> (9')<p></p></div>
-    <div class="news-pop" id="4568271714057165258837" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Văn hóa</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#comment">Đánh giá</a></div>
-                <p>00:30-00:39</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/V%C4%83n-h%C3%B3a/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
-
-    </div>    
-    </div>
-    <div class="chanel-detail">
-----------end----element----------
-
-Elements , type multi applied
-----------begin--element----------
- clearfix"><div class="time-tv">00:00</div><div class="t-detail" id="program-4568271414057165258835"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/"><span>Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</span></a> (29')<p></p></div>
-    <div class="news-pop" id="4568271414057165258835" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Cận cảnh: TS Phạm Đình Nam - GĐ Cty NDP Analytics (Mỹ)</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#comment">Đánh giá</a></div>
-                <p>00:00-00:29</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/C%E1%BA%ADn-c%E1%BA%A3nh%3A-TS-Ph%E1%BA%A1m-%C4%90%C3%ACnh-Nam-%11-G%C4%90-Cty-NDP-Analytics-%28M%E1%BB%B9%29/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/can-canh-ts-pham-dinh-nam-gd-cty-ndp-analytics-my,pid-45682714/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
-
-    </div><div 
-----------end----element----------
-----------begin--element----------
- clearfix"><div class="time-tv">00:30</div><div class="t-detail" id="program-4568271714057165258837"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/"><span>Văn hóa</span></a> (9')<p></p></div>
-    <div class="news-pop" id="4568271714057165258837" style="top:30px; left:60px; display:none;">
-        <div class="newin">
-            <div class="newbtn">
-                <a href="http://tv.vietbao.vn/lich-phat-song/htvc-fbnc/ngay,19-07-2014/#tv" onclick="return false;"> </a>
-            </div>
-            <div class="newcontent clearfix">
-                <div class="newimg">
-                    <img width="145" height="80" alt="" src="./images/v2011/sample/tv.gif">
-                </div>
-                <a class="title" href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Văn hóa</a>
-                <div class="linklike"><a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#comment">Đánh giá</a></div>
-                <p>00:30-00:39</p>
-                <p>Kênh phát sóng: <strong>HTVC FBNC</strong></a></p>
-                <p>Thể loại: <strong>chưa xác định</strong></p>
-                <p>
-                                    </p>
-                <ul class="link-new clearfix">
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/">Xem chi tiết</a></li>
-                    <li><a href="http://tv.vietbao.vn/chuong-trinh/V%C4%83n-h%C3%B3a/">Tìm kiếm chương trình</a></li>
-                    <li> <a href="http://tv.vietbao.vn/chuong-trinh/van-hoa,pid-45682717/#selectTime">Thông báo giờ phát</a></li>
-                </ul>
-            </div>
-        </div>
-    </div> 
-
-    </div>    
-    </div>
-    <div class="chanel-detail">
-----------end----element----------
+     no indexpage for this channel!
+Cannot find any shows on the Index Page !
 
    Summary for update of HTVC FBNC
-     missing shows added       0
-     changed shows updated     0
-     new shows added           2
+     no changes, no update necessary !
      unchanged shows inspected 0
-     total after update        2
-     elapstime / updated show  1.03 seconds
-
+     total after update        0
 
 channel Discovery (HD) site -- MYTV.COM.VN -- update mode smart
 
@@ -592,7 +279,7 @@ channel VTVcab8 site -- VTV.VN -- update mode smart
      new shows added           108
      unchanged shows inspected 36
      total after update        144
-     elapstime / updated show  0.85 seconds
+     elapstime / updated show  0.50 seconds
 
 
 channel Kidsco site -- VTVCAB.VN -- update mode smart
@@ -613,7 +300,7 @@ channel Disney Channel site -- VTVCAB.VN -- update mode smart
      new shows added           117
      unchanged shows inspected 38
      total after update        155
-     elapstime / updated show  0.91 seconds
+     elapstime / updated show  0.52 seconds
 
 
 channel VTC3 site -- MYTV.COM.VN -- update mode smart
@@ -631,10 +318,10 @@ channel VTC2 site -- MYTV.COM.VN -- update mode smart
    Summary for update of VTC2
      missing shows added       0
      changed shows updated     0
-     new shows added           93
+     new shows added           43
      unchanged shows inspected 0
-     total after update        93
-     elapstime / updated show  0.86 seconds
+     total after update        43
+     elapstime / updated show  0.50 seconds
 
 
 channel SCTV1 site -- TV.VIETBAO.VN -- update mode smart
@@ -665,16 +352,16 @@ channel StarSport site -- MYTV.COM.VN -- update mode smart
    Summary for update of StarSport
      missing shows added       0
      changed shows updated     0
-     new shows added           70
-     unchanged shows inspected 21
-     total after update        91
-     elapstime / updated show  0.97 seconds
+     new shows added           66
+     unchanged shows inspected 23
+     total after update        89
+     elapstime / updated show  0.57 seconds
 
 
-2507 shows in 28 channels
-22 updated shows
-2015 new shows added
-job finished at 7/19/2014 3:54:25 AM done in 1456 seconds
+2404 shows in 28 channels
+0 updated shows
+1842 new shows added
+job finished at 7/20/2014 3:43:21 AM done in 793 seconds
 
 Starting MDB Postprocess .. Version: 1.4
 
@@ -689,7 +376,7 @@ MDB Postprocessor result :
 
 Mdb data found for 0 out of 0 Movies-candidates
 Mdb data found for 0 out of 0 Series-candidates
-In 00:00:45.7048780 seconds
+In 00:00:26.1043630 seconds
 
 
 Finished Postprocess MDB
