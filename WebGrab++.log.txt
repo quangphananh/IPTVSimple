@@ -1,6 +1,6 @@
 ﻿WebGrab+Plus/w MDB & REX Postprocess -- version 1.54.2/0.00 -- Jan van Straaten
 -------------------------------------------------------------------------------
-job started at 7/22/2014 3:30:08 AM
+job started at 7/23/2014 3:30:15 AM
 
 
 reading config file: /home/xbian/webgrab/WebGrab++.config.xml
@@ -18,7 +18,7 @@ timezone=UTC+07:00 mapped with timezone_id "Asia/Jakarta"
 running on Unix 3.12.7.0
 
 xmltv input file - /home/xbian/webgrab/EPG/guide.xml - found
-1743 superfluous shows removed
+1969 superfluous shows removed
 update requested for - 28 - out of - 28 - channels and for 4 day(s)
 pdate mode smart - for all channels
 
@@ -27,10 +27,10 @@ channel HBO HD site -- VTVCAB.VN -- update mode smart
    Summary for update of HBO HD
      missing shows added       0
      changed shows updated     0
-     new shows added           39
+     new shows added           38
      unchanged shows inspected 12
-     total after update        51
-     elapstime / updated show  0.18 seconds
+     total after update        50
+     elapstime / updated show  0.59 seconds
 
 
 channel Star Movies (HD) site -- MYTV.COM.VN -- update mode smart
@@ -41,7 +41,7 @@ channel Star Movies (HD) site -- MYTV.COM.VN -- update mode smart
      new shows added           40
      unchanged shows inspected 13
      total after update        53
-     elapstime / updated show  0.10 seconds
+     elapstime / updated show  0.39 seconds
 
 
 channel Star World (HD) site -- MYTV.COM.VN -- update mode smart
@@ -49,10 +49,10 @@ channel Star World (HD) site -- MYTV.COM.VN -- update mode smart
    Summary for update of Star World (HD)
      missing shows added       0
      changed shows updated     0
-     new shows added           107
-     unchanged shows inspected 35
-     total after update        142
-     elapstime / updated show  0.10 seconds
+     new shows added           105
+     unchanged shows inspected 32
+     total after update        137
+     elapstime / updated show  0.32 seconds
 
 
 channel Bóng đá TV HD site -- VTVCAB.VN -- update mode smart
@@ -60,10 +60,10 @@ channel Bóng đá TV HD site -- VTVCAB.VN -- update mode smart
    Summary for update of Bóng đá TV HD
      missing shows added       0
      changed shows updated     0
-     new shows added           96
-     unchanged shows inspected 0
+     new shows added           72
+     unchanged shows inspected 24
      total after update        96
-     elapstime / updated show  0.12 seconds
+     elapstime / updated show  0.39 seconds
 
 
 channel Thể thao TV HD site -- VTVCAB.VN -- update mode smart
@@ -71,10 +71,10 @@ channel Thể thao TV HD site -- VTVCAB.VN -- update mode smart
    Summary for update of Thể thao TV HD
      missing shows added       0
      changed shows updated     0
-     new shows added           182
-     unchanged shows inspected 0
-     total after update        182
-     elapstime / updated show  0.16 seconds
+     new shows added           135
+     unchanged shows inspected 45
+     total after update        180
+     elapstime / updated show  0.47 seconds
 
 
 channel FOX sports plus site -- VTVCAB.VN -- update mode smart
@@ -82,10 +82,10 @@ channel FOX sports plus site -- VTVCAB.VN -- update mode smart
    Summary for update of FOX sports plus
      missing shows added       0
      changed shows updated     0
-     new shows added           56
-     unchanged shows inspected 17
+     new shows added           55
+     unchanged shows inspected 18
      total after update        73
-     elapstime / updated show  0.18 seconds
+     elapstime / updated show  0.55 seconds
 
 
 channel AXN site -- VTVCAB.VN -- update mode smart
@@ -93,10 +93,10 @@ channel AXN site -- VTVCAB.VN -- update mode smart
    Summary for update of AXN
      missing shows added       0
      changed shows updated     0
-     new shows added           80
-     unchanged shows inspected 25
-     total after update        105
-     elapstime / updated show  0.21 seconds
+     new shows added           85
+     unchanged shows inspected 26
+     total after update        111
+     elapstime / updated show  0.64 seconds
 
 
 channel VTV1 site -- VTV.VN -- update mode smart
@@ -104,10 +104,10 @@ channel VTV1 site -- VTV.VN -- update mode smart
    Summary for update of VTV1
      missing shows added       0
      changed shows updated     0
-     new shows added           190
+     new shows added           178
      unchanged shows inspected 62
-     total after update        252
-     elapstime / updated show  0.23 seconds
+     total after update        240
+     elapstime / updated show  0.70 seconds
 
 
 channel VTV2 site -- VTV.VN -- update mode smart
@@ -115,30 +115,32 @@ channel VTV2 site -- VTV.VN -- update mode smart
    Summary for update of VTV2
      missing shows added       0
      changed shows updated     0
-     new shows added           170
-     unchanged shows inspected 57
-     total after update        227
-     elapstime / updated show  0.28 seconds
+     new shows added           172
+     unchanged shows inspected 56
+     total after update        228
+     elapstime / updated show  0.84 seconds
 
 
 channel VTV3 site -- VTV.VN -- update mode smart
-unable to update channel VTV3
 
-System.FormatException: String was not recognized as a valid DateTime.
-  at System.DateTime.Parse (System.String s, IFormatProvider provider, DateTimeStyles styles) [0x00000] in <filename unknown>:0 
-  at System.DateTime.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
-  at WebGrab.Program.UpdateChannel (System.String strIndex, WebGrab.ChannelToUpdate Chan, WebGrab.XmlTarget xTarget) [0x00000] in <filename unknown>:0 
-  at WebGrab.Program.Main (System.String[] args) [0x00000] in <filename unknown>:0 
+   Summary for update of VTV3
+     missing shows added       0
+     changed shows updated     0
+     new shows added           131
+     unchanged shows inspected 0
+     total after update        131
+     elapstime / updated show  0.97 seconds
+
 
 channel VTV4 site -- VTV.VN -- update mode smart
 
    Summary for update of VTV4
      missing shows added       0
      changed shows updated     0
-     new shows added           172
+     new shows added           165
      unchanged shows inspected 57
-     total after update        229
-     elapstime / updated show  0.32 seconds
+     total after update        222
+     elapstime / updated show  1.06 seconds
 
 
 channel VTV6 site -- VTV.VN -- update mode smart
@@ -146,10 +148,10 @@ channel VTV6 site -- VTV.VN -- update mode smart
    Summary for update of VTV6
      missing shows added       0
      changed shows updated     0
-     new shows added           111
-     unchanged shows inspected 40
+     new shows added           117
+     unchanged shows inspected 34
      total after update        151
-     elapstime / updated show  0.37 seconds
+     elapstime / updated show  1.17 seconds
 
 
 channel VTV9 site -- VTV.VN -- update mode smart
@@ -176,10 +178,10 @@ channel HTV7 HD site -- MYTV.COM.VN -- update mode smart
    Summary for update of HTV7 HD
      missing shows added       0
      changed shows updated     0
-     new shows added           119
-     unchanged shows inspected 37
-     total after update        156
-     elapstime / updated show  0.42 seconds
+     new shows added           115
+     unchanged shows inspected 39
+     total after update        154
+     elapstime / updated show  1.28 seconds
 
 
 channel HTV9 HD site -- MYTV.COM.VN -- update mode smart
@@ -187,10 +189,10 @@ channel HTV9 HD site -- MYTV.COM.VN -- update mode smart
    Summary for update of HTV9 HD
      missing shows added       0
      changed shows updated     0
-     new shows added           141
-     unchanged shows inspected 38
+     new shows added           130
+     unchanged shows inspected 49
      total after update        179
-     elapstime / updated show  0.48 seconds
+     elapstime / updated show  1.47 seconds
 
 
 channel HTVC-Thuần Việt site -- MYTV.COM.VN -- update mode smart
@@ -277,7 +279,7 @@ channel VTVcab8 site -- VTV.VN -- update mode smart
      new shows added           108
      unchanged shows inspected 36
      total after update        144
-     elapstime / updated show  0.51 seconds
+     elapstime / updated show  1.58 seconds
 
 
 channel Kidsco site -- VTVCAB.VN -- update mode smart
@@ -298,7 +300,7 @@ channel Disney Channel site -- VTVCAB.VN -- update mode smart
      new shows added           118
      unchanged shows inspected 39
      total after update        157
-     elapstime / updated show  0.54 seconds
+     elapstime / updated show  1.65 seconds
 
 
 channel VTC3 site -- MYTV.COM.VN -- update mode smart
@@ -349,16 +351,16 @@ channel StarSport site -- MYTV.COM.VN -- update mode smart
    Summary for update of StarSport
      missing shows added       0
      changed shows updated     0
-     new shows added           72
-     unchanged shows inspected 23
-     total after update        95
-     elapstime / updated show  0.57 seconds
+     new shows added           70
+     unchanged shows inspected 24
+     total after update        94
+     elapstime / updated show  1.74 seconds
 
 
-2591 shows in 28 channels
+2572 shows in 28 channels
 0 updated shows
-2042 new shows added
-job finished at 7/22/2014 3:44:04 AM done in 836 seconds
+1950 new shows added
+job finished at 7/23/2014 4:12:06 AM done in 2511 seconds
 
 Starting MDB Postprocess .. Version: 1.4
 
@@ -373,7 +375,7 @@ MDB Postprocessor result :
 
 Mdb data found for 0 out of 0 Movies-candidates
 Mdb data found for 0 out of 0 Series-candidates
-In 00:00:27.2571600 seconds
+In 00:01:23.7032310 seconds
 
 
 Finished Postprocess MDB
