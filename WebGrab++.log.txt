@@ -1,6 +1,6 @@
 ﻿WebGrab+Plus/w MDB & REX Postprocess -- version 1.54.2/0.00 -- Jan van Straaten
 -------------------------------------------------------------------------------
-job started at 7/26/2014 3:30:10 AM
+job started at 7/27/2014 3:30:08 AM
 
 
 reading config file: /home/xbian/webgrab/WebGrab++.config.xml
@@ -18,7 +18,7 @@ timezone=UTC+07:00 mapped with timezone_id "Asia/Jakarta"
 running on Unix 3.12.7.0
 
 xmltv input file - /home/xbian/webgrab/EPG/guide.xml - found
-1975 superfluous shows removed
+1814 superfluous shows removed
 update requested for - 28 - out of - 28 - channels and for 4 day(s)
 pdate mode smart - for all channels
 
@@ -27,10 +27,10 @@ channel HBO HD site -- VTVCAB.VN -- update mode smart
    Summary for update of HBO HD
      missing shows added       0
      changed shows updated     0
-     new shows added           41
-     unchanged shows inspected 14
-     total after update        55
-     elapstime / updated show  0.13 seconds
+     new shows added           42
+     unchanged shows inspected 12
+     total after update        54
+     elapstime / updated show  0.24 seconds
 
 
 channel Star Movies (HD) site -- MYTV.COM.VN -- update mode smart
@@ -38,10 +38,10 @@ channel Star Movies (HD) site -- MYTV.COM.VN -- update mode smart
    Summary for update of Star Movies (HD)
      missing shows added       0
      changed shows updated     0
-     new shows added           42
+     new shows added           43
      unchanged shows inspected 13
-     total after update        55
-     elapstime / updated show  0.12 seconds
+     total after update        56
+     elapstime / updated show  0.11 seconds
 
 
 channel Star World (HD) site -- MYTV.COM.VN -- update mode smart
@@ -49,8 +49,8 @@ channel Star World (HD) site -- MYTV.COM.VN -- update mode smart
    Summary for update of Star World (HD)
      missing shows added       0
      changed shows updated     0
-     new shows added           110
-     unchanged shows inspected 37
+     new shows added           108
+     unchanged shows inspected 39
      total after update        147
      elapstime / updated show  0.12 seconds
 
@@ -60,9 +60,9 @@ channel Bóng đá TV HD site -- VTVCAB.VN -- update mode smart
    Summary for update of Bóng đá TV HD
      missing shows added       0
      changed shows updated     0
-     new shows added           45
+     new shows added           20
      unchanged shows inspected 0
-     total after update        45
+     total after update        20
      elapstime / updated show  0.13 seconds
 
 
@@ -71,10 +71,10 @@ channel Thể thao TV HD site -- VTVCAB.VN -- update mode smart
    Summary for update of Thể thao TV HD
      missing shows added       0
      changed shows updated     0
-     new shows added           82
+     new shows added           39
      unchanged shows inspected 0
-     total after update        82
-     elapstime / updated show  0.15 seconds
+     total after update        39
+     elapstime / updated show  0.13 seconds
 
 
 channel FOX sports plus site -- VTVCAB.VN -- update mode smart
@@ -82,10 +82,10 @@ channel FOX sports plus site -- VTVCAB.VN -- update mode smart
    Summary for update of FOX sports plus
      missing shows added       0
      changed shows updated     0
-     new shows added           53
+     new shows added           51
      unchanged shows inspected 17
-     total after update        70
-     elapstime / updated show  0.18 seconds
+     total after update        68
+     elapstime / updated show  0.16 seconds
 
 
 channel AXN site -- VTVCAB.VN -- update mode smart
@@ -93,10 +93,10 @@ channel AXN site -- VTVCAB.VN -- update mode smart
    Summary for update of AXN
      missing shows added       0
      changed shows updated     0
-     new shows added           83
-     unchanged shows inspected 26
-     total after update        109
-     elapstime / updated show  0.21 seconds
+     new shows added           79
+     unchanged shows inspected 23
+     total after update        102
+     elapstime / updated show  0.20 seconds
 
 
 channel VTV1 site -- VTV.VN -- update mode smart
@@ -104,10 +104,10 @@ channel VTV1 site -- VTV.VN -- update mode smart
    Summary for update of VTV1
      missing shows added       0
      changed shows updated     0
-     new shows added           171
-     unchanged shows inspected 68
-     total after update        239
-     elapstime / updated show  0.25 seconds
+     new shows added           185
+     unchanged shows inspected 62
+     total after update        247
+     elapstime / updated show  0.26 seconds
 
 
 channel VTV2 site -- VTV.VN -- update mode smart
@@ -115,10 +115,10 @@ channel VTV2 site -- VTV.VN -- update mode smart
    Summary for update of VTV2
      missing shows added       0
      changed shows updated     0
-     new shows added           169
-     unchanged shows inspected 61
+     new shows added           172
+     unchanged shows inspected 58
      total after update        230
-     elapstime / updated show  0.30 seconds
+     elapstime / updated show  0.33 seconds
 
 
 channel VTV3 site -- VTV.VN -- update mode smart
@@ -126,143 +126,44 @@ channel VTV3 site -- VTV.VN -- update mode smart
    Summary for update of VTV3
      missing shows added       0
      changed shows updated     0
-     new shows added           109
-     unchanged shows inspected 32
-     total after update        141
+     new shows added           105
+     unchanged shows inspected 34
+     total after update        139
      elapstime / updated show  0.34 seconds
 
 
 channel VTV4 site -- VTV.VN -- update mode smart
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 2:15:00 AM stop = 7/28/2014 2:30:00 AM title = Khám phá Việt Nam
-      Replaces ----- start = 7/28/2014 2:15:00 AM stop = 7/28/2014 2:30:00 AM title = Ký sự
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 7:45:00 AM stop = 7/28/2014 8:00:00 AM title = Khám phá Việt Nam
-      Replaces ----- start = 7/28/2014 7:45:00 AM stop = 7/28/2014 8:00:00 AM title = Ký sự
 
    Summary for update of VTV4
      missing shows added       0
-     changed shows updated     2
-     new shows added           152
-     unchanged shows inspected 57
-     total after update        211
-     elapstime / updated show  0.45 seconds
+     changed shows updated     0
+     new shows added           158
+     unchanged shows inspected 58
+     total after update        216
+     elapstime / updated show  0.37 seconds
 
 
 channel VTV6 site -- VTV.VN -- update mode smart
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 12:00:00 AM stop = 7/28/2014 2:00:00 AM title = Sao Mai điểm hẹn
-      Replaces ----- start = 7/28/2014 12:00:00 AM stop = 7/28/2014 2:00:00 AM title = Sao Mai điểm hẹn - Liveshow 4
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 2:00:00 AM stop = 7/28/2014 2:15:00 AM title = Vitamin C
-      Replaces ----- start = 7/28/2014 2:00:00 AM stop = 7/28/2014 2:15:00 AM title = Vitamin C - Số 24
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 2:15:00 AM stop = 7/28/2014 2:25:00 AM title = VTV kết nối
-      Replaces ----- start = 7/28/2014 2:15:00 AM stop = 7/28/2014 3:00:00 AM title = VTV kết nối
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 2:25:00 AM stop = 7/28/2014 3:00:00 AM title = Du lịch khám phá
-      Replaces ----- start = 7/28/2014 2:15:00 AM stop = 7/28/2014 3:00:00 AM title = VTV kết nối
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 4:45:00 AM stop = 7/28/2014 5:00:00 AM title = 5S online
-      Replaces ----- start = 7/28/2014 4:45:00 AM stop = 7/28/2014 5:00:00 AM title = 5S online  - Tập 211
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 5:00:00 AM stop = 7/28/2014 6:00:00 AM title = Cuộc đua kỳ thú
-      Replaces ----- start = 7/28/2014 5:00:00 AM stop = 7/28/2014 6:00:00 AM title = Cuộc đua kỳ thú - Tập 11
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 7:00:00 AM stop = 7/28/2014 7:15:00 AM title = Mảnh ghép tiếng Anh
-      Replaces ----- start = 7/28/2014 7:00:00 AM stop = 7/28/2014 7:15:00 AM title = Mảnh ghép tiếng Anh - Số 30
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 8:00:00 AM stop = 7/28/2014 9:00:00 AM title = Tuổi 20 hát
-      Replaces ----- start = 7/28/2014 8:00:00 AM stop = 7/28/2014 9:00:00 AM title = Tuổi 20 hát 2013 - Tập 10
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 9:00:00 AM stop = 7/28/2014 9:35:00 AM title = Du lịch khám phá
-      Replaces ----- start = 7/28/2014 9:00:00 AM stop = 7/28/2014 9:30:00 AM title = Du lịch khám phá
-      Replaces ----- start = 7/28/2014 9:30:00 AM stop = 7/28/2014 10:30:00 AM title = Phim Việt Nam
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 9:35:00 AM stop = 7/28/2014 10:30:00 AM title = Phim truyện Việt Nam
-      Replaces ----- start = 7/28/2014 9:30:00 AM stop = 7/28/2014 10:30:00 AM title = Phim Việt Nam
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 10:30:00 AM stop = 7/28/2014 10:45:00 AM title = 5S online
-      Replaces ----- start = 7/28/2014 10:30:00 AM stop = 7/28/2014 10:45:00 AM title = 5S online  - Tập 205
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 10:45:00 AM stop = 7/28/2014 11:00:00 AM title = Mảnh ghép tiếng Anh
-      Replaces ----- start = 7/28/2014 10:45:00 AM stop = 7/28/2014 11:00:00 AM title = Mảnh ghép tiếng Anh - Số 44
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 11:00:00 AM stop = 7/28/2014 12:00:00 PM title = Cuộc đua kỳ thú
-      Replaces ----- start = 7/28/2014 11:00:00 AM stop = 7/28/2014 12:00:00 PM title = Cuộc đua kỳ thú - Tập 11
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 1:45:00 PM stop = 7/28/2014 2:00:00 PM title = 5S online
-      Replaces ----- start = 7/28/2014 1:45:00 PM stop = 7/28/2014 2:00:00 PM title = 5S online  - Tập 212
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 2:00:00 PM stop = 7/28/2014 2:15:00 PM title = Vitamin C
-      Replaces ----- start = 7/28/2014 2:00:00 PM stop = 7/28/2014 2:15:00 PM title = Vitamin C - Số 24
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 2:15:00 PM stop = 7/28/2014 2:30:00 PM title = VTV kết nối
-      Replaces ----- start = 7/28/2014 2:15:00 PM stop = 7/28/2014 2:45:00 PM title = VTV kết nối
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 2:30:00 PM stop = 7/28/2014 3:30:00 PM title = Khám phá thế giới
-      Replaces ----- start = 7/28/2014 2:15:00 PM stop = 7/28/2014 2:45:00 PM title = VTV kết nối
-      Replaces ----- start = 7/28/2014 2:45:00 PM stop = 7/28/2014 3:30:00 PM title = Khám phá thế giới
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 4:30:00 PM stop = 7/28/2014 5:30:00 PM title = Thư giãn cuối tuần
-      Replaces ----- start = 7/28/2014 4:30:00 PM stop = 7/28/2014 5:15:00 PM title = Thư giãn cuối tuần
-      Replaces ----- start = 7/28/2014 5:15:00 PM stop = 7/28/2014 5:30:00 PM title = Đùa chút thôi 26
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 5:30:00 PM stop = 7/28/2014 6:00:00 PM title = Tôi hát
-      Replaces ----- start = 7/28/2014 5:30:00 PM stop = 7/28/2014 6:00:00 PM title = Tôi hát - Số 30
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 6:00:00 PM stop = 7/28/2014 6:20:00 PM title = Lăng kính V6
-      Replaces ----- start = 7/28/2014 6:00:00 PM stop = 7/28/2014 6:15:00 PM title = Lăng kính V6
-      Replaces ----- start = 7/28/2014 6:15:00 PM stop = 7/28/2014 6:30:00 PM title = Vitamin C-Số 25
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 6:20:00 PM stop = 7/28/2014 6:35:00 PM title = Vitamin C
-      Replaces ----- start = 7/28/2014 6:15:00 PM stop = 7/28/2014 6:30:00 PM title = Vitamin C-Số 25
-      Replaces ----- start = 7/28/2014 6:30:00 PM stop = 7/28/2014 7:00:00 PM title = Sinh ra từ làng
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 6:35:00 PM stop = 7/28/2014 7:00:00 PM title = Sinh ra từ làng
-      Replaces ----- start = 7/28/2014 6:30:00 PM stop = 7/28/2014 7:00:00 PM title = Sinh ra từ làng
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 7:00:00 PM stop = 7/28/2014 7:50:00 PM title = Phim truyện
-      Replaces ----- start = 7/28/2014 7:00:00 PM stop = 7/28/2014 7:50:00 PM title = Phim Mỹ
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 7:50:00 PM stop = 7/28/2014 7:55:00 PM title = Đồng hành Chinh Phục
-      Replaces ----- start = 7/28/2014 7:50:00 PM stop = 7/28/2014 7:55:00 PM title = ĐH Chinh phục
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 7:55:00 PM stop = 7/28/2014 8:50:00 PM title = Những bài hát còn xanh
-      Replaces ----- start = 7/28/2014 7:55:00 PM stop = 7/28/2014 8:50:00 PM title = Những bài hát còn xanh - Tập 13
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 8:50:00 PM stop = 7/28/2014 9:05:00 PM title = 5S online
-      Replaces ----- start = 7/28/2014 8:50:00 PM stop = 7/28/2014 9:05:00 PM title = 5S online  - Tập 215
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 9:05:00 PM stop = 7/28/2014 10:00:00 PM title = Trẻ em luôn đúng
-      Replaces ----- start = 7/28/2014 9:05:00 PM stop = 7/28/2014 10:00:00 PM title = Trẻ em luôn đúng - Số 14
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 10:00:00 PM stop = 7/28/2014 10:30:00 PM title = Phim truyện Việt Nam
-      Replaces ----- start = 7/28/2014 10:00:00 PM stop = 7/28/2014 10:30:00 PM title = Phim Việt Nam
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 11:00:00 PM stop = 7/28/2014 11:20:00 PM title = Lăng kính V6
-      Replaces ----- start = 7/28/2014 11:00:00 PM stop = 7/28/2014 11:30:00 PM title = Lăng kính V6
-   epg correction :  CHANGED show corrected,
-      show with ---- start = 7/28/2014 11:20:00 PM stop = 7/28/2014 11:30:00 PM title = Đùa chút thôi
-      Replaces ----- start = 7/28/2014 11:00:00 PM stop = 7/28/2014 11:30:00 PM title = Lăng kính V6
 
    Summary for update of VTV6
      missing shows added       0
-     changed shows updated     30
-     new shows added           104
-     unchanged shows inspected 12
-     total after update        146
-     elapstime / updated show  0.56 seconds
+     changed shows updated     0
+     new shows added           116
+     unchanged shows inspected 37
+     total after update        153
+     elapstime / updated show  0.41 seconds
 
 
 channel VTV9 site -- VTV.VN -- update mode smart
-unable to update channel VTV9
 
-System.FormatException: String was not recognized as a valid DateTime.
-  at System.DateTime.Parse (System.String s, IFormatProvider provider, DateTimeStyles styles) [0x00000] in <filename unknown>:0 
-  at System.DateTime.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
-  at WebGrab.Program.UpdateChannel (System.String strIndex, WebGrab.ChannelToUpdate Chan, WebGrab.XmlTarget xTarget) [0x00000] in <filename unknown>:0 
-  at WebGrab.Program.Main (System.String[] args) [0x00000] in <filename unknown>:0 
+   Summary for update of VTV9
+     missing shows added       0
+     changed shows updated     0
+     new shows added           231
+     unchanged shows inspected 0
+     total after update        231
+     elapstime / updated show  0.46 seconds
+
 
 channel HTV2 HD site -- MYTV.COM.VN -- update mode smart
 
@@ -279,10 +180,10 @@ channel HTV7 HD site -- MYTV.COM.VN -- update mode smart
    Summary for update of HTV7 HD
      missing shows added       0
      changed shows updated     0
-     new shows added           153
-     unchanged shows inspected 0
+     new shows added           114
+     unchanged shows inspected 39
      total after update        153
-     elapstime / updated show  0.53 seconds
+     elapstime / updated show  0.50 seconds
 
 
 channel HTV9 HD site -- MYTV.COM.VN -- update mode smart
@@ -290,10 +191,10 @@ channel HTV9 HD site -- MYTV.COM.VN -- update mode smart
    Summary for update of HTV9 HD
      missing shows added       0
      changed shows updated     0
-     new shows added           165
-     unchanged shows inspected 0
-     total after update        165
-     elapstime / updated show  0.52 seconds
+     new shows added           129
+     unchanged shows inspected 41
+     total after update        170
+     elapstime / updated show  0.57 seconds
 
 
 channel HTVC-Thuần Việt site -- MYTV.COM.VN -- update mode smart
@@ -380,7 +281,7 @@ channel VTVcab8 site -- VTV.VN -- update mode smart
      new shows added           108
      unchanged shows inspected 36
      total after update        144
-     elapstime / updated show  0.56 seconds
+     elapstime / updated show  0.65 seconds
 
 
 channel Kidsco site -- VTVCAB.VN -- update mode smart
@@ -398,10 +299,10 @@ channel Disney Channel site -- VTVCAB.VN -- update mode smart
    Summary for update of Disney Channel
      missing shows added       0
      changed shows updated     0
-     new shows added           105
+     new shows added           106
      unchanged shows inspected 32
-     total after update        137
-     elapstime / updated show  0.59 seconds
+     total after update        138
+     elapstime / updated show  0.73 seconds
 
 
 channel VTC3 site -- MYTV.COM.VN -- update mode smart
@@ -416,14 +317,13 @@ Cannot find any shows on the Index Page !
 
 channel VTC2 site -- MYTV.COM.VN -- update mode smart
 
-   Summary for update of VTC2
-     missing shows added       0
-     changed shows updated     0
-     new shows added           47
-     unchanged shows inspected 0
-     total after update        47
-     elapstime / updated show  0.56 seconds
+     no indexpage for this channel!
+Cannot find any shows on the Index Page !
 
+   Summary for update of VTC2
+     no changes, no update necessary !
+     unchanged shows inspected 0
+     total after update        0
 
 channel SCTV1 site -- TV.VIETBAO.VN -- update mode smart
 
@@ -453,16 +353,16 @@ channel StarSport site -- MYTV.COM.VN -- update mode smart
    Summary for update of StarSport
      missing shows added       0
      changed shows updated     0
-     new shows added           72
-     unchanged shows inspected 17
-     total after update        89
-     elapstime / updated show  0.67 seconds
+     new shows added           68
+     unchanged shows inspected 24
+     total after update        92
+     elapstime / updated show  0.65 seconds
 
 
-2339 shows in 28 channels
-32 updated shows
-1830 new shows added
-job finished at 7/26/2014 3:45:49 AM done in 939 seconds
+2399 shows in 28 channels
+0 updated shows
+1874 new shows added
+job finished at 7/27/2014 3:45:56 AM done in 948 seconds
 
 Starting MDB Postprocess .. Version: 1.4
 
@@ -477,7 +377,7 @@ MDB Postprocessor result :
 
 Mdb data found for 0 out of 0 Movies-candidates
 Mdb data found for 0 out of 0 Series-candidates
-In 00:00:34.4291080 seconds
+In 00:00:30.2610310 seconds
 
 
 Finished Postprocess MDB
