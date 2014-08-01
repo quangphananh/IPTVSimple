@@ -1,6 +1,6 @@
 ﻿WebGrab+Plus/w MDB & REX Postprocess -- version 1.54.2/0.00 -- Jan van Straaten
 -------------------------------------------------------------------------------
-job started at 8/1/2014 3:30:09 AM
+job started at 8/2/2014 3:30:02 AM
 
 
 reading config file: /home/xbian/webgrab/WebGrab++.config.xml
@@ -18,351 +18,126 @@ timezone=UTC+07:00 mapped with timezone_id "Asia/Jakarta"
 running on Unix 3.12.25.0
 
 xmltv input file - /home/xbian/webgrab/EPG/guide.xml - found
-1947 superfluous shows removed
+1942 superfluous shows removed
 update requested for - 28 - out of - 28 - channels and for 4 day(s)
 pdate mode smart - for all channels
 
 channel HBO HD site -- VTVCAB.VN -- update mode smart
-
-   Summary for update of HBO HD
-     missing shows added       0
-     changed shows updated     0
-     new shows added           41
-     unchanged shows inspected 13
-     total after update        54
-     elapstime / updated show  0.19 seconds
-
+no index page data received from HBO HD
+unable to update channel
 
 channel Star Movies (HD) site -- MYTV.COM.VN -- update mode smart
-
-   Summary for update of Star Movies (HD)
-     missing shows added       0
-     changed shows updated     0
-     new shows added           41
-     unchanged shows inspected 12
-     total after update        53
-     elapstime / updated show  0.17 seconds
-
+no index page data received from Star Movies (HD)
+unable to update channel
 
 channel Star World (HD) site -- MYTV.COM.VN -- update mode smart
-
-   Summary for update of Star World (HD)
-     missing shows added       0
-     changed shows updated     0
-     new shows added           111
-     unchanged shows inspected 34
-     total after update        145
-     elapstime / updated show  0.19 seconds
-
+no index page data received from Star World (HD)
+unable to update channel
 
 channel Bóng đá TV HD site -- VTVCAB.VN -- update mode smart
-
-   Summary for update of Bóng đá TV HD
-     missing shows added       0
-     changed shows updated     0
-     new shows added           50
-     unchanged shows inspected 20
-     total after update        70
-     elapstime / updated show  0.20 seconds
-
+no index page data received from Bóng đá TV HD
+unable to update channel
 
 channel Thể thao TV HD site -- VTVCAB.VN -- update mode smart
-
-   Summary for update of Thể thao TV HD
-     missing shows added       0
-     changed shows updated     0
-     new shows added           59
-     unchanged shows inspected 26
-     total after update        85
-     elapstime / updated show  0.23 seconds
-
+no index page data received from Thể thao TV HD
+unable to update channel
 
 channel FOX sports plus site -- VTVCAB.VN -- update mode smart
-
-   Summary for update of FOX sports plus
-     missing shows added       0
-     changed shows updated     0
-     new shows added           90
-     unchanged shows inspected 0
-     total after update        90
-     elapstime / updated show  0.29 seconds
-
+no index page data received from FOX sports plus
+unable to update channel
 
 channel AXN site -- VTVCAB.VN -- update mode smart
-
-   Summary for update of AXN
-     missing shows added       0
-     changed shows updated     0
-     new shows added           119
-     unchanged shows inspected 0
-     total after update        119
-     elapstime / updated show  0.61 seconds
-
+no index page data received from AXN
+unable to update channel
 
 channel VTV1 site -- VTV.VN -- update mode smart
-
-   Summary for update of VTV1
-     missing shows added       0
-     changed shows updated     0
-     new shows added           185
-     unchanged shows inspected 57
-     total after update        242
-     elapstime / updated show  0.41 seconds
-
+no index page data received from VTV1
+unable to update channel
 
 channel VTV2 site -- VTV.VN -- update mode smart
-
-   Summary for update of VTV2
-     missing shows added       0
-     changed shows updated     0
-     new shows added           175
-     unchanged shows inspected 57
-     total after update        232
-     elapstime / updated show  0.51 seconds
-
+no index page data received from VTV2
+unable to update channel
 
 channel VTV3 site -- VTV.VN -- update mode smart
-
-   Summary for update of VTV3
-     missing shows added       0
-     changed shows updated     0
-     new shows added           106
-     unchanged shows inspected 28
-     total after update        134
-     elapstime / updated show  0.57 seconds
-
+no index page data received from VTV3
+unable to update channel
 
 channel VTV4 site -- VTV.VN -- update mode smart
-
-   Summary for update of VTV4
-     missing shows added       0
-     changed shows updated     0
-     new shows added           167
-     unchanged shows inspected 45
-     total after update        212
-     elapstime / updated show  0.64 seconds
-
+no index page data received from VTV4
+unable to update channel
 
 channel VTV6 site -- VTV.VN -- update mode smart
-
-   Summary for update of VTV6
-     missing shows added       0
-     changed shows updated     0
-     new shows added           113
-     unchanged shows inspected 33
-     total after update        146
-     elapstime / updated show  0.67 seconds
-
+no index page data received from VTV6
+unable to update channel
 
 channel VTV9 site -- VTV.VN -- update mode smart
-   skipped negative show time! at 8/1/2014 10:55:00 PM
-
-   Summary for update of VTV9
-     missing shows added       0
-     changed shows updated     0
-     new shows added           50
-     unchanged shows inspected 0
-     total after update        107
-     elapstime / updated show  0.47 seconds
-
+no index page data received from VTV9
+unable to update channel
 
 channel HTV2 HD site -- MYTV.COM.VN -- update mode smart
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of HTV2 HD
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from HTV2 HD
+unable to update channel
 
 channel HTV7 HD site -- MYTV.COM.VN -- update mode smart
-
-   Summary for update of HTV7 HD
-     missing shows added       0
-     changed shows updated     0
-     new shows added           80
-     unchanged shows inspected 38
-     total after update        118
-     elapstime / updated show  1.12 seconds
-
+no index page data received from HTV7 HD
+unable to update channel
 
 channel HTV9 HD site -- MYTV.COM.VN -- update mode smart
-
-   Summary for update of HTV9 HD
-     missing shows added       0
-     changed shows updated     0
-     new shows added           94
-     unchanged shows inspected 33
-     total after update        127
-     elapstime / updated show  0.77 seconds
-
+no index page data received from HTV9 HD
+unable to update channel
 
 channel HTVC-Thuần Việt site -- MYTV.COM.VN -- update mode smart
-
-   Summary for update of HTVC-Thuần Việt
-     missing shows added       0
-     changed shows updated     0
-     new shows added           68
-     unchanged shows inspected 28
-     total after update        96
-     elapstime / updated show  1.81 seconds
-
+no index page data received from HTVC-Thuần Việt
+unable to update channel
 
 channel HTVC+ site -- TV.VIETBAO.VN -- update mode smart
-
-Debugging information SiteIni
-Element:  INDEX_SHOWSPLIT
-html source written to : /home/xbian/webgrab/html.source.htm
-scrub strings:
-     type & arguments : multi(debug)
-     blockstart   (bs): <div class="title-tv">Đêm khuya</div>
-     elementstart (es): class="tv-detail
-     elementend   (ee): 
-     blockend     (be): <div class="chanel-detail">
-
-No Block with these separators
-
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of HTVC+
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from HTVC+
+unable to update channel
 
 channel HTVC Phim site -- MYTV.COM.VN -- update mode smart
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of HTVC Phim
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from HTVC Phim
+unable to update channel
 
 channel HTVC FBNC site -- TV.VIETBAO.VN -- update mode smart
-
-Debugging information SiteIni
-Element:  INDEX_SHOWSPLIT
-html source written to : /home/xbian/webgrab/html.source.htm
-scrub strings:
-     type & arguments : multi(debug)
-     blockstart   (bs): <div class="title-tv">Đêm khuya</div>
-     elementstart (es): class="tv-detail
-     elementend   (ee): 
-     blockend     (be): <div class="chanel-detail">
-
-No Block with these separators
-
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of HTVC FBNC
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from HTVC FBNC
+unable to update channel
 
 channel Discovery (HD) site -- MYTV.COM.VN -- update mode smart
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of Discovery (HD)
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from Discovery (HD)
+unable to update channel
 
 channel VTVcab8 site -- VTV.VN -- update mode smart
-unable to update channel VTVcab8
-
-System.FormatException: String was not recognized as a valid DateTime.
-  at System.DateTime.Parse (System.String s, IFormatProvider provider, DateTimeStyles styles) [0x00000] in <filename unknown>:0 
-  at System.DateTime.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
-  at WebGrab.Program.UpdateChannel (System.String strIndex, WebGrab.ChannelToUpdate Chan, WebGrab.XmlTarget xTarget) [0x00000] in <filename unknown>:0 
-  at WebGrab.Program.Main (System.String[] args) [0x00000] in <filename unknown>:0 
+no index page data received from VTVcab8
+unable to update channel
 
 channel Kidsco site -- VTVCAB.VN -- update mode smart
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of Kidsco
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from Kidsco
+unable to update channel
 
 channel Disney Channel site -- VTVCAB.VN -- update mode smart
-
-   Summary for update of Disney Channel
-     missing shows added       0
-     changed shows updated     0
-     new shows added           108
-     unchanged shows inspected 36
-     total after update        144
-     elapstime / updated show  0.91 seconds
-
+no index page data received from Disney Channel
+unable to update channel
 
 channel VTC3 site -- MYTV.COM.VN -- update mode smart
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of VTC3
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from VTC3
+unable to update channel
 
 channel VTC2 site -- MYTV.COM.VN -- update mode smart
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of VTC2
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from VTC2
+unable to update channel
 
 channel SCTV1 site -- TV.VIETBAO.VN -- update mode smart
-
-Debugging information SiteIni
-Element:  INDEX_SHOWSPLIT
-html source written to : /home/xbian/webgrab/html.source.htm
-scrub strings:
-     type & arguments : multi(debug)
-     blockstart   (bs): <div class="title-tv">Đêm khuya</div>
-     elementstart (es): class="tv-detail
-     elementend   (ee): 
-     blockend     (be): <div class="chanel-detail">
-
-No Block with these separators
-
-
-     no indexpage for this channel!
-Cannot find any shows on the Index Page !
-
-   Summary for update of SCTV1
-     no changes, no update necessary !
-     unchanged shows inspected 0
-     total after update        0
+no index page data received from SCTV1
+unable to update channel
 
 channel StarSport site -- MYTV.COM.VN -- update mode smart
+no index page data received from StarSport
+unable to update channel
 
-   Summary for update of StarSport
-     missing shows added       0
-     changed shows updated     0
-     new shows added           67
-     unchanged shows inspected 22
-     total after update        89
-     elapstime / updated show  0.94 seconds
-
-
-2370 shows in 28 channels
+428 shows in 28 channels
 0 updated shows
-1796 new shows added
-job finished at 8/1/2014 3:54:02 AM done in 1433 seconds
+0 new shows added
+job finished at 8/2/2014 4:52:49 AM done in 4966 seconds
 
 Starting MDB Postprocess .. Version: 1.4
 
@@ -377,7 +152,7 @@ MDB Postprocessor result :
 
 Mdb data found for 0 out of 0 Movies-candidates
 Mdb data found for 0 out of 0 Series-candidates
-In 00:00:45.7442030 seconds
+In 00:00:06.0774940 seconds
 
 
 Finished Postprocess MDB
